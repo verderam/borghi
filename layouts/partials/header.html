@@ -2,10 +2,10 @@
   <div class="header-inner">
     <a class="brand" href="{{ "/" | relURL }}" aria-label="Borghi Start Up, home">borghi<span>:</span>start up</a>
     <nav class="main-nav" aria-label="Navigazione principale">
-      <a href="{{ "/idee.html" | relURL }}" {{ if eq .Section "idee" }}aria-current="page"{{ end }}>Le idee <sup>100</sup></a>
-      <a href="{{ "/categorie.html" | relURL }}" {{ if or (eq .Kind "taxonomy") (eq .Kind "term") }}aria-current="page"{{ end }}>Percorsi</a>
-      <a href="{{ "/il-progetto.html" | relURL }}" {{ if eq .RelPermalink ("/il-progetto.html" | relURL) }}aria-current="page"{{ end }}>Il progetto</a>
-      <a class="nav-search" href="{{ "/idee.html#cerca" | relURL }}" aria-label="Cerca tra le idee">
+      <a href="{{ "/idee/" | relURL }}" {{ if eq .Section "idee" }}aria-current="page"{{ end }}>Le idee <sup>100</sup></a>
+      <a href="{{ "/categorie/" | relURL }}" {{ if or (eq .Kind "taxonomy") (eq .Kind "term") }}aria-current="page"{{ end }}>Percorsi</a>
+      <a href="{{ "/il-progetto/" | relURL }}" {{ if eq .RelPermalink ("/il-progetto/" | relURL) }}aria-current="page"{{ end }}>Il progetto</a>
+      <a class="nav-search" href="{{ "/idee/#cerca" | relURL }}" aria-label="Cerca tra le idee">
         <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg>
       </a>
     </nav>

@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ $catSlug := index .Params.categorie 0 }}
-{{ $cat := .Site.GetPage (printf "/categorie.html%s" $catSlug) }}
+{{ $cat := .Site.GetPage (printf "/categorie/%s" $catSlug) }}
 <article class="idea-spread">
   <div class="idea-visual">
     <div class="idea-visual-sticky">
@@ -10,7 +10,7 @@
     </div>
   </div>
   <div class="idea-article">
-    <nav class="breadcrumbs" aria-label="Percorso"><a href="{{ "/idee.html" | relURL }}">Le 100 idee</a><span aria-hidden="true">/</span><a href="{{ $cat.RelPermalink }}">{{ $cat.Title }}</a></nav>
+    <nav class="breadcrumbs" aria-label="Percorso"><a href="{{ "/idee/" | relURL }}">Le 100 idee</a><span aria-hidden="true">/</span><a href="{{ $cat.RelPermalink }}">{{ $cat.Title }}</a></nav>
     <header class="article-header"><p class="eyebrow">Borghi Start Up · {{ .Params.source_code }}</p><h1>{{ .Title }}</h1><p class="article-deck">{{ .Params.summary }}</p></header>
     <aside class="identikit" aria-labelledby="identikit-title">
       <div class="identikit-heading"><h2 id="identikit-title">Identikit dell’idea</h2><span>Valori indicativi</span></div>

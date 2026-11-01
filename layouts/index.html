@@ -4,7 +4,12 @@
     <p class="eyebrow">Wiki Borghi Revolution · edizione web</p>
     <h1>100 idee per far ripartire un borgo.</h1>
     <p class="hero-intro">Storie reali, attività duplicabili e parametri essenziali per trasformare risorse inutilizzate in nuove microimprese.</p>
-    <a class="button-primary" href="{{ "/idee/" | relURL }}">Esplora tutte le idee <span aria-hidden="true">→</span></a>
+    <div class="hero-buttons">
+      <a class="button-primary" href="{{ "/idee/" | relURL }}">Trova le idee Startup Borghi di tuo interesse <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="hero-buttons">
+      <a class="button-primary" href="{{ "/categorie/" | relURL }}">Trova il borgo e scopri le idee realizzabili e le risorse che ti offre <span aria-hidden="true">→</span></a>
+    </div>
     <dl class="hero-facts">
       <div><dt>100</dt><dd>schede complete</dd></div>
       <div><dt>8</dt><dd>percorsi di impresa</dd></div>
@@ -32,8 +37,7 @@
   <div class="shell">
     <div class="section-heading">
       <div><p class="eyebrow">Trova il tuo ambito</p><h2 id="percorsi">Otto percorsi, un solo territorio</h2></div>
-      <a class="text-link" href="{{ "/categorie/" | relURL }}">Trova le idee startup borghi di tuo interesse <span aria-hidden="true">→</span></a>
-      <a class="text-link" href="{{ "/categorie/" | relURL }}">Trova il borgo e scopri le idee realizzabili e le risorse che ti offre <span aria-hidden="true">→</span></a>
+      <a class="text-link" href="{{ "/categorie/" | relURL }}">Tutti i percorsi <span aria-hidden="true">→</span></a>
     </div>
     <div class="category-grid home-category-grid">
       {{ range $slug, $weighted := .Site.Taxonomies.categorie }}{{ partial "category-card.html" (dict "Page" $weighted.Page "Count" (len $weighted)) }}{{ end }}

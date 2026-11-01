@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="it">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body class="kind-{{ .Kind }}">
+  <a class="skip-link" href="#contenuto">Vai al contenuto</a>
+  <div class="navigation-progress" aria-hidden="true"></div>
+  {{ partial "header.html" . }}
+  <main id="contenuto" tabindex="-1">
+    {{ block "main" . }}{{ end }}
+  </main>
+  <p id="navigazione-stato" class="visually-hidden" role="status" aria-live="polite"></p>
+  {{ partial "footer.html" . }}
+  <script data-instant-track src="{{ "/vendor/instantclick.min.js" | relURL }}"></script>
+  <script data-instant-track src="{{ "/js/catalogo.js" | relURL }}"></script>
+  <script data-instant-track src="{{ "/js/navigazione.js" | relURL }}"></script>
+</body>
+</html>

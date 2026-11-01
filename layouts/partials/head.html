@@ -1,0 +1,14 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{{ $description := .Description | default .Params.summary | default .Site.Params.description }}
+<title>{{ if .IsHome }}{{ .Site.Title }} — 100 idee per i borghi italiani{{ else }}{{ .Title }} · {{ .Site.Title }}{{ end }}</title>
+<meta name="description" content="{{ $description }}">
+<meta name="theme-color" content="#f9f9f9">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:title" content="{{ .Title }} · {{ .Site.Title }}">
+<meta property="og:description" content="{{ $description }}">
+{{ with .Params.cover }}<meta property="og:image" content="{{ . | relURL }}">{{ end }}
+<link rel="icon" href="{{ "/favicon.svg" | relURL }}" type="image/svg+xml">
+<link rel="preload" href="{{ "/fonts/noto-sans-regular.woff" | relURL }}" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="{{ "/fonts/noto-serif-display-regular.woff" | relURL }}" as="font" type="font/woff" crossorigin>
+<link rel="stylesheet" href="{{ "/css/site.css" | relURL }}">

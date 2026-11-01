@@ -1,0 +1,8 @@
+{{ define "main" }}
+{{ partial "page-hero.html" . }}
+<section class="shell taxonomy-index" aria-label="Tutti i percorsi">
+  <div class="category-grid">
+    {{ range $slug, $weighted := .Site.Taxonomies.categorie }}{{ partial "category-card.html" (dict "Page" $weighted.Page "Count" (len $weighted)) }}{{ end }}
+  </div>
+</section>
+{{ end }}

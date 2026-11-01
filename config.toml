@@ -1,0 +1,19 @@
+baseURL = "/"
+languageCode = "it-IT"
+title = "Borghi Start Up"
+pluralizeListTitles = false
+uglyURLs = true
+disableKinds = ["RSS"]
+summaryLength = 28
+
+[taxonomies]
+  categoria = "categorie"
+
+[params]
+  description = "100 idee imprenditoriali da adattare e duplicare nei borghi italiani."
+  author = "Antonio Montefinale"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

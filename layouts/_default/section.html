@@ -1,0 +1,29 @@
+{{ define "main" }}
+{{ partial "page-hero.html" . }}
+<section class="catalogue shell" aria-labelledby="catalogo-idee">
+  <h2 class="visually-hidden" id="catalogo-idee">Catalogo delle 100 idee</h2>
+  <form class="filters" id="filtri" role="search" aria-label="Cerca e filtra le idee">
+    <div class="filter-search">
+      <label for="cerca">Cerca per parola o numero di scheda</label>
+      <div class="search-field">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg>
+        <input type="search" id="cerca" name="q" placeholder="Es. lavanda, turismo, 040" autocomplete="off">
+        <kbd aria-hidden="true">/</kbd>
+      </div>
+    </div>
+    <div class="filter-field"><label for="categoria">Percorso</label><select id="categoria" name="categoria"><option value="">Tutti i percorsi</option>{{ range $slug, $weighted := .Site.Taxonomies.categorie }}<option value="{{ $slug }}">{{ $weighted.Page.Title }}</option>{{ end }}</select></div>
+    <div class="filter-field"><label for="investimento">Investimento</label><select id="investimento" name="investimento"><option value="">Qualsiasi livello</option><option value="basso">Basso</option><option value="medio">Medio</option><option value="elevato">Elevato</option></select></div>
+    <div class="filter-field"><label for="impegno">Impegno</label><select id="impegno" name="impegno"><option value="">Qualsiasi impegno</option><option value="part time">Part time</option><option value="tempo pieno">Tempo pieno</option></select></div>
+    <div class="filter-field"><label for="ordine">Ordina</label><select id="ordine" name="ordine"><option value="documento">Ordine del documento</option><option value="titolo">Titolo A–Z</option></select></div>
+    <button class="filter-reset" type="reset">Azzera</button>
+  </form>
+  <div class="results-bar"><p id="risultati" role="status" aria-live="polite"><strong>100</strong> idee disponibili</p><span>Seleziona un titolo per aprire la scheda completa.</span></div>
+  <div class="ideas-grid" id="griglia-idee">
+    {{ range .Pages.ByWeight }}{{ partial "idea-card.html" . }}{{ end }}
+  </div>
+  <div class="empty-state" id="nessun-risultato" hidden>
+    <p class="empty-code">0</p><h3>Nessuna idea corrisponde ai filtri.</h3><p>Prova a ridurre i criteri oppure riparti dall’intera raccolta.</p><button type="button" class="button-primary" id="azzera-vuoto">Mostra tutte le idee</button>
+  </div>
+  <noscript><p class="noscript-note">Tutte le schede sono visibili. Per usare ricerca e filtri è necessario attivare JavaScript.</p></noscript>
+</section>
+{{ end }}

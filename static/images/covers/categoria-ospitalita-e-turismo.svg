@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+<title id="title">Ospitalità</title><desc id="desc">Copertina editoriale originale con il simbolo Ospitalità e la scheda 14.</desc>
+<!-- Original cover for Borghi Start Up. Icon: Lucide, ISC License. -->
+<rect width="1200" height="800" fill="#eaf4f7"/>
+<circle cx="170" cy="710" r="300" fill="#6219ff" opacity=".08"/>
+<g fill="none" stroke="#2b2b2b" stroke-width="2" opacity=".12"><path d="M-60 482 C180 377,360 582,610 477 S980 402,1270 512"/><path d="M-60 525 C180 420,360 625,610 520 S980 445,1270 555"/><path d="M-60 568 C180 463,360 668,610 563 S980 488,1270 598"/><path d="M-60 611 C180 506,360 711,610 606 S980 531,1270 641"/><path d="M-60 654 C180 549,360 754,610 649 S980 574,1270 684"/><path d="M-60 697 C180 592,360 797,610 692 S980 617,1270 727"/></g>
+
+<text x="72" y="100" fill="#2b2b2b" font-family="Noto Sans, sans-serif" font-size="19" font-weight="700" letter-spacing="3">OSPITALITÀ</text>
+<text x="62" y="640" fill="#2b2b2b" opacity=".11" font-family="Noto Sans, sans-serif" font-size="190" font-weight="700" letter-spacing="-8">14</text>
+<g transform="translate(835 195) rotate(-5) scale(10)" fill="none" stroke="#2b2b2b" stroke-width="1.05" stroke-linecap="round" stroke-linejoin="round"><path d="M2 20v-8a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v8"/><path d="M4 10V6a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v4"/><path d="M12 4v6"/><path d="M2 18h20"/></g>
+<rect x="28" y="28" width="1144" height="744" fill="none" stroke="#2b2b2b" opacity=".2"/>
+
+</svg>

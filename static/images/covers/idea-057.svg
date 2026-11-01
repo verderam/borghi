@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+<title id="title">Cibo e bevande</title><desc id="desc">Copertina editoriale originale con il simbolo Cibo e bevande e la scheda 540.</desc>
+<!-- Original cover for Borghi Start Up. Icon: Lucide, ISC License. -->
+<rect width="1200" height="800" fill="#fff9dc"/>
+<rect x="690" y="75" width="360" height="510" rx="180" fill="#f9f9f9" opacity=".62"/>
+<g fill="none" stroke="#2b2b2b" stroke-width="2" opacity=".12"><path d="M-60 494 C180 389,360 594,610 489 S980 414,1270 524"/><path d="M-60 537 C180 432,360 637,610 532 S980 457,1270 567"/><path d="M-60 580 C180 475,360 680,610 575 S980 500,1270 610"/><path d="M-60 623 C180 518,360 723,610 618 S980 543,1270 653"/><path d="M-60 666 C180 561,360 766,610 661 S980 586,1270 696"/><path d="M-60 709 C180 604,360 809,610 704 S980 629,1270 739"/></g>
+
+<text x="72" y="100" fill="#2b2b2b" font-family="Noto Sans, sans-serif" font-size="19" font-weight="700" letter-spacing="3">CIBO E BEVANDE</text>
+<text x="62" y="640" fill="#2b2b2b" opacity=".11" font-family="Noto Sans, sans-serif" font-size="190" font-weight="700" letter-spacing="-8">540</text>
+<g transform="translate(765 210) rotate(5) scale(10)" fill="none" stroke="#2b2b2b" stroke-width="1.05" stroke-linecap="round" stroke-linejoin="round"><path d="M10 2v2"/><path d="M14 2v2"/><path d="M16 8a1 1 0 0 1 1 1v8a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V9a1 1 0 0 1 1-1h14a4 4 0 1 1 0 8h-1"/><path d="M6 2v2"/></g>
+<rect x="28" y="28" width="1144" height="744" fill="none" stroke="#2b2b2b" opacity=".2"/>
+
+</svg>

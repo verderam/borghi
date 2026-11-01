@@ -1,0 +1,43 @@
+{{ define "main" }}
+{{ $catSlug := index .Params.categorie 0 }}
+{{ $cat := .Site.GetPage (printf "/categorie.html%s" $catSlug) }}
+<article class="idea-spread">
+  <div class="idea-visual">
+    <div class="idea-visual-sticky">
+      <a class="idea-cover" data-no-instant href="{{ .Params.cover | relURL }}" aria-label="Apri la copertina a dimensione piena"><img src="{{ .Params.cover | relURL }}" alt="{{ .Params.cover_alt }}" width="1200" height="800"></a>
+      <div class="idea-visual-meta"><span>Scheda {{ .Params.source_code }}</span><span>Idea {{ printf "%03d" .Params.number }} / 100</span></div>
+      <a class="idea-category" href="{{ $cat.RelPermalink }}">{{ $cat.Title }} <span aria-hidden="true">→</span></a>
+    </div>
+  </div>
+  <div class="idea-article">
+    <nav class="breadcrumbs" aria-label="Percorso"><a href="{{ "/idee.html" | relURL }}">Le 100 idee</a><span aria-hidden="true">/</span><a href="{{ $cat.RelPermalink }}">{{ $cat.Title }}</a></nav>
+    <header class="article-header"><p class="eyebrow">Borghi Start Up · {{ .Params.source_code }}</p><h1>{{ .Title }}</h1><p class="article-deck">{{ .Params.summary }}</p></header>
+    <aside class="identikit" aria-labelledby="identikit-title">
+      <div class="identikit-heading"><h2 id="identikit-title">Identikit dell’idea</h2><span>Valori indicativi</span></div>
+      <dl>
+        <div><dt>Investimento richiesto</dt><dd>{{ .Params.identikit.investimento | humanize }}</dd></div>
+        <div><dt>Conoscenze necessarie</dt><dd>{{ .Params.identikit.conoscenze | humanize }}</dd></div>
+        <div><dt>Impegno</dt><dd>{{ .Params.identikit.impegno | humanize }}</dd></div>
+        <div><dt>Reddito potenziale</dt><dd>{{ .Params.identikit.reddito | humanize }}</dd></div>
+        <div><dt>Rischio</dt><dd>{{ .Params.identikit.rischio | humanize }}</dd></div>
+      </dl>
+      <p>Da verificare in base a dimensione, mercato, tecnologia e obiettivi personali.</p>
+    </aside>
+    <div class="prose">{{ .Content }}</div>
+    <footer class="article-note"><p>Questa scheda è uno spunto progettuale, non un business plan. Prima di avviare l’attività, verifica fattibilità, norme, mercato e sostenibilità economica.</p></footer>
+  </div>
+</article>
+<nav class="idea-pagination shell" aria-label="Schede adiacenti">
+  {{ with .PrevInSection }}<a class="pagination-prev" href="{{ .RelPermalink }}"><span>← Scheda precedente</span><strong>{{ .Title }}</strong></a>{{ else }}<span></span>{{ end }}
+  {{ with .NextInSection }}<a class="pagination-next" href="{{ .RelPermalink }}"><span>Scheda successiva →</span><strong>{{ .Title }}</strong></a>{{ end }}
+</nav>
+<section class="related-section shell" aria-labelledby="idee-affini">
+  <div class="section-heading"><div><p class="eyebrow">Continua il percorso</p><h2 id="idee-affini">Idee nello stesso ambito</h2></div><a class="text-link" href="{{ $cat.RelPermalink }}">Vedi tutte <span aria-hidden="true">→</span></a></div>
+  <div class="ideas-grid related-grid">
+    {{ $current := .RelPermalink }}{{ $shown := 0 }}
+    {{ range where .Site.RegularPages "Section" "idee" }}
+      {{ if and (lt $shown 3) (ne .RelPermalink $current) (in .Params.categorie $catSlug) }}{{ partial "idea-card.html" . }}{{ $shown = add $shown 1 }}{{ end }}
+    {{ end }}
+  </div>
+</section>
+{{ end }}

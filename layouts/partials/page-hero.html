@@ -1,0 +1,8 @@
+<section class="page-hero shell">
+  <div class="page-hero-copy">
+    <p class="eyebrow">Borghi Start Up</p>
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Description }}</p>
+  </div>
+  {{ with .Params.cover }}<img class="page-hero-cover" src="{{ . | relURL }}" alt="Copertina: {{ $.Title }}" width="1200" height="800">{{ end }}
+</section>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+<title id="title">Servizi</title><desc id="desc">Copertina editoriale originale con il simbolo Servizi e la scheda 580.</desc>
+<!-- Original cover for Borghi Start Up. Icon: Lucide, ISC License. -->
+<rect width="1200" height="800" fill="#f9f5ff"/>
+<circle cx="930" cy="120" r="260" fill="#f9f9f9" opacity=".72"/>
+<g fill="none" stroke="#2b2b2b" stroke-width="2" opacity=".12"><path d="M-60 470 C180 365,360 570,610 465 S980 390,1270 500"/><path d="M-60 513 C180 408,360 613,610 508 S980 433,1270 543"/><path d="M-60 556 C180 451,360 656,610 551 S980 476,1270 586"/><path d="M-60 599 C180 494,360 699,610 594 S980 519,1270 629"/><path d="M-60 642 C180 537,360 742,610 637 S980 562,1270 672"/><path d="M-60 685 C180 580,360 785,610 680 S980 605,1270 715"/></g>
+
+<text x="72" y="100" fill="#2b2b2b" font-family="Noto Sans, sans-serif" font-size="19" font-weight="700" letter-spacing="3">SERVIZI</text>
+<text x="62" y="640" fill="#2b2b2b" opacity=".11" font-family="Noto Sans, sans-serif" font-size="190" font-weight="700" letter-spacing="-8">580</text>
+<g transform="translate(790 205) rotate(0) scale(10)" fill="none" stroke="#2b2b2b" stroke-width="1.05" stroke-linecap="round" stroke-linejoin="round"><path d="M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z"/><path d="M20 2v4"/><path d="M22 4h-4"/><circle cx="4" cy="20" r="2"/></g>
+<rect x="28" y="28" width="1144" height="744" fill="none" stroke="#2b2b2b" opacity=".2"/>
+
+</svg>

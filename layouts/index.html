@@ -1,0 +1,55 @@
+{{ define "main" }}
+<section class="home-hero shell">
+  <div class="home-hero-copy">
+    <p class="eyebrow">Wiki Borghi Revolution · edizione web</p>
+    <h1>100 idee per far ripartire un borgo.</h1>
+    <p class="hero-intro">Storie reali, attività duplicabili e parametri essenziali per trasformare risorse inutilizzate in nuove microimprese.</p>
+    <a class="button-primary" href="{{ "/idee.html" | relURL }}">Esplora tutte le idee <span aria-hidden="true">→</span></a>
+    <dl class="hero-facts">
+      <div><dt>100</dt><dd>schede complete</dd></div>
+      <div><dt>8</dt><dd>percorsi di impresa</dd></div>
+      <div><dt>5</dt><dd>criteri per orientarsi</dd></div>
+    </dl>
+  </div>
+  <div class="home-hero-art">
+    <img src="{{ .Params.cover | relURL }}" alt="Composizione editoriale: un borgo, cento idee e otto percorsi" width="1200" height="800">
+    <p>Un catalogo da consultare<br>per interesse, non in sequenza.</p>
+  </div>
+</section>
+
+<section class="featured-section shell" aria-labelledby="in-evidenza">
+  <div class="section-heading">
+    <div><p class="eyebrow">Un primo assaggio</p><h2 id="in-evidenza">Sei idee, sei modi di iniziare</h2></div>
+    <a class="text-link" href="{{ "/idee.html" | relURL }}">Vedi le 100 schede <span aria-hidden="true">→</span></a>
+  </div>
+  <div class="featured-grid">
+    {{ $ideas := where .Site.RegularPages "Section" "idee" }}
+    {{ range where $ideas "Params.featured" true }}{{ partial "idea-card.html" . }}{{ end }}
+  </div>
+</section>
+
+<section class="paths-section" aria-labelledby="percorsi">
+  <div class="shell">
+    <div class="section-heading">
+      <div><p class="eyebrow">Trova il tuo ambito</p><h2 id="percorsi">Otto percorsi, un solo territorio</h2></div>
+      <a class="text-link" href="{{ "/categorie.html" | relURL }}">Tutti i percorsi <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="category-grid home-category-grid">
+      {{ range $slug, $weighted := .Site.Taxonomies.categorie }}{{ partial "category-card.html" (dict "Page" $weighted.Page "Count" (len $weighted)) }}{{ end }}
+    </div>
+  </div>
+</section>
+
+<section class="method-section">
+  <div class="method-grid shell">
+    <div class="method-image"><img src="{{ "/images/covers/progetto.svg" | relURL }}" alt="Copertina editoriale del metodo Borghi Start Up" width="1200" height="800" loading="lazy"></div>
+    <div class="method-copy">
+      <p class="eyebrow">Prima dell’entusiasmo, il metodo</p>
+      <h2>Un’idea è un inizio.<br>Il contesto fa la differenza.</h2>
+      <p>Ogni scheda combina un’esperienza già realizzata, le ragioni della sua attrattività e un identikit sintetico. Investimento, conoscenze, impegno, reddito e rischio aiutano a scegliere cosa approfondire.</p>
+      <p>Le idee vanno adattate alle risorse locali e verificate con un progetto economico e finanziario.</p>
+      <a class="button-light" href="{{ "/il-progetto.html" | relURL }}">Come leggere le schede <span aria-hidden="true">→</span></a>
+    </div>
+  </div>
+</section>
+{{ end }}

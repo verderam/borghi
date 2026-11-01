@@ -1,0 +1,20 @@
+{{ define "main" }}
+{{ partial "page-hero.html" . }}
+{{ if eq .Kind "taxonomy" }}
+<section class="shell taxonomy-index" aria-label="Tutti i percorsi">
+  <div class="category-grid">
+    {{ range $slug, $weighted := .Site.Taxonomies.categorie }}{{ partial "category-card.html" (dict "Page" $weighted.Page "Count" (len $weighted)) }}{{ end }}
+  </div>
+</section>
+{{ else }}
+<section class="shell category-listing">
+  <div class="section-heading">
+    <div><p class="eyebrow">Percorso tematico</p><h2>{{ len .Pages }} idee da esplorare</h2></div>
+    <a class="text-link" href="{{ "/idee.html" | relURL }}">Torna al catalogo completo <span aria-hidden="true">→</span></a>
+  </div>
+  <div class="ideas-grid">
+    {{ range .Pages.ByWeight }}{{ partial "idea-card.html" . }}{{ end }}
+  </div>
+</section>
+{{ end }}
+{{ end }}

@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "it-IT"
 title = "Borghi Start Up"
 pluralizeListTitles = false
-uglyURLs = true
+uglyURLs = false
 disableKinds = ["RSS"]
 summaryLength = 28
 

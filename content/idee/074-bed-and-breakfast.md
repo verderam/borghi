@@ -7,8 +7,8 @@ categorie:
 - ospitalita-e-turismo
 weight: 74
 summary: Aprire un nuovo Bed and Breakfast in un borgo italiano è un'opportunità affascinante e ricca di potenziale. I borghi italiani sono scrigni di storia, cultura e tradizioni, spesso immersi in paesaggi…
-cover: /images/covers/idea-074.svg
-cover_alt: Copertina editoriale per Bed and breakfast
+cover: /images/covers/idea-074.jpg
+cover_alt: Foto di copertina per Bed and breakfast
 icon: bed-double
 identikit:
   investimento: basso - medio

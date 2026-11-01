@@ -7,8 +7,8 @@ categorie:
 - allevamenti
 weight: 28
 summary: Avviare un allevamento di lumache in un borgo italiano può rivelarsi una scelta imprenditoriale interessante e sostenibile. La richiesta di lumache, sia per il consumo alimentare che per la produzione di…
-cover: /images/covers/idea-028.svg
-cover_alt: Copertina editoriale per Allevamento di lumache
+cover: /images/covers/idea-028.jpg
+cover_alt: Foto di copertina per Allevamento di lumache
 icon: snail
 identikit:
   investimento: basso - medio

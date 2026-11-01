@@ -7,8 +7,8 @@ categorie:
 - cibo-e-bevande
 weight: 42
 summary: Aprire un minicaseificio in un borgo italiano è un’idea che unisce tradizione, qualità e sviluppo locale. I borghi offrono un contesto ideale per la produzione di formaggi artigianali, valorizzando razze…
-cover: /images/covers/idea-042.svg
-cover_alt: Copertina editoriale per Minicaseificio
+cover: /images/covers/idea-042.jpg
+cover_alt: Foto di copertina per Minicaseificio
 icon: milk
 identikit:
   investimento: medio

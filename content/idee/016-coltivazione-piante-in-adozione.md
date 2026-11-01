@@ -7,8 +7,8 @@ categorie:
 - coltivazioni-e-territorio
 weight: 16
 summary: Avviare una coltivazione di piante in adozione in un borgo italiano è un'iniziativa originale che può unire agricoltura, sostenibilità e coinvolgimento comunitario. L'idea consiste nel permettere ai…
-cover: /images/covers/idea-016.svg
-cover_alt: Copertina editoriale per Coltivazione piante in adozione
+cover: /images/covers/idea-016.jpg
+cover_alt: Foto di copertina per Coltivazione piante in adozione
 icon: hand-heart
 identikit:
   investimento: basso - medio

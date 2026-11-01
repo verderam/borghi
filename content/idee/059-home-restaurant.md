@@ -7,8 +7,8 @@ categorie:
 - cibo-e-bevande
 weight: 59
 summary: L'apertura di un home restaurant in un borgo italiano esercita un'attrattività innegabile, sia per chi lo gestisce che per chi lo frequenta. Il fascino intrinseco di questi luoghi, spesso ricchi di storia e…
-cover: /images/covers/idea-059.svg
-cover_alt: Copertina editoriale per Home restaurant
+cover: /images/covers/idea-059.jpg
+cover_alt: Foto di copertina per Home restaurant
 icon: house
 identikit:
   investimento: basso

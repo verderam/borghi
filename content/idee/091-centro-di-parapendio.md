@@ -7,8 +7,8 @@ categorie:
 - sport-e-tempo-libero
 weight: 91
 summary: L'avvio di un centro di parapendio rappresenta un'opportunità imprenditoriale entusiasmante, che combina sport, avventura e bellezza naturale. Il parapendio è una delle attività più emozionanti per gli…
-cover: /images/covers/idea-091.svg
-cover_alt: Copertina editoriale per Centro di parapendio
+cover: /images/covers/idea-091.jpg
+cover_alt: Foto di copertina per Centro di parapendio
 icon: wind
 identikit:
   investimento: basso

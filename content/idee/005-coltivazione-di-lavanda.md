@@ -7,8 +7,8 @@ categorie:
 - coltivazioni-e-territorio
 weight: 5
 summary: Avviare una coltivazione di lavanda in un borgo italiano può essere un'opportunità straordinaria, sia dal punto di vista economico che turistico. La lavanda, con il suo fascino visivo e olfattivo, può…
-cover: /images/covers/idea-005.svg
-cover_alt: Copertina editoriale per Coltivazione di lavanda
+cover: /images/covers/idea-005.jpg
+cover_alt: Foto di copertina per Coltivazione di lavanda
 icon: flower
 identikit:
   investimento: basso - medio

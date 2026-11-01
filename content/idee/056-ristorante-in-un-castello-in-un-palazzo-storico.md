@@ -7,8 +7,8 @@ categorie:
 - cibo-e-bevande
 weight: 56
 summary: Creare un ristorante all’interno di un castello o di un palazzo storico è un’idea che fonde eleganza, storia e un’esperienza culinaria unica. Il fascino architettonico, con le sue mura antiche, torri e…
-cover: /images/covers/idea-056.svg
-cover_alt: Copertina editoriale per Ristorante in un castello - in un palazzo storico
+cover: /images/covers/idea-056.jpg
+cover_alt: Foto di copertina per Ristorante in un castello - in un palazzo storico
 icon: castle
 identikit:
   investimento: medio - elevato

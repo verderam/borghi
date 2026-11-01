@@ -7,8 +7,8 @@ categorie:
 - cibo-e-bevande
 weight: 48
 summary: Aprire un liquorificio artigianale in un borgo italiano rappresenta un'opportunità unica per valorizzare le tradizioni locali e creare prodotti autentici e distintivi. I piccoli borghi sono spesso…
-cover: /images/covers/idea-048.svg
-cover_alt: Copertina editoriale per Liquorificio artigianale
+cover: /images/covers/idea-048.jpg
+cover_alt: Foto di copertina per Liquorificio artigianale
 icon: martini
 identikit:
   investimento: basso – medio

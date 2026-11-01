@@ -7,8 +7,8 @@ categorie:
 - servizi-e-artigianato
 weight: 63
 summary: Aprire un'attività artigianale esperienziale in un borgo italiano è un'opportunità unica per coniugare tradizione, innovazione e turismo. I borghi italiani, con il loro fascino senza tempo e la forte…
-cover: /images/covers/idea-063.svg
-cover_alt: Copertina editoriale per Attivita' artigianale esperienziale
+cover: /images/covers/idea-063.jpg
+cover_alt: Foto di copertina per Attivita' artigianale esperienziale
 icon: hammer
 identikit:
   investimento: basso - medio

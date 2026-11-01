@@ -7,8 +7,8 @@ categorie:
 - coltivazioni-e-territorio
 weight: 10
 summary: La coltivazione di Enkir, grani e mais antichi sta vivendo un vero e proprio rinascimento, attirando sempre più l'interesse di agricoltori e consumatori. Questi cereali, rimasti inalterati per millenni,…
-cover: /images/covers/idea-010.svg
-cover_alt: Copertina editoriale per Coltivazione di enkir, grani e mais antichi
+cover: /images/covers/idea-010.jpg
+cover_alt: Foto di copertina per Coltivazione di enkir, grani e mais antichi
 icon: wheat
 identikit:
   investimento: basso

@@ -7,8 +7,8 @@ categorie:
 - ruralita-e-comunita
 weight: 22
 summary: Aprire un agrinido-agriasilo in un borgo italiano è un’idea innovativa che combina educazione, natura e tradizioni locali. Significa proporre una struttura educativa rurale dove i bambini possono crescere a…
-cover: /images/covers/idea-022.svg
-cover_alt: Copertina editoriale per Agrinido - agriasilo
+cover: /images/covers/idea-022.jpg
+cover_alt: Foto di copertina per Agrinido - agriasilo
 icon: baby
 identikit:
   investimento: basso - medio

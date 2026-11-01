@@ -7,8 +7,8 @@ categorie:
 - cibo-e-bevande
 weight: 52
 summary: La creazione di una paninoteca in un piccolo borgo italiano rappresenta un’opportunità imprenditoriale particolarmente attrattiva. I borghi sono luoghi ricchi di identità, tradizioni e autenticità, elementi…
-cover: /images/covers/idea-052.svg
-cover_alt: Copertina editoriale per Paninoteca
+cover: /images/covers/idea-052.jpg
+cover_alt: Foto di copertina per Paninoteca
 icon: sandwich
 identikit:
   investimento: basso – medio

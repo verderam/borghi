@@ -7,8 +7,8 @@ categorie:
 - sport-e-tempo-libero
 weight: 92
 summary: Avviare un centro volo con deltaplani è un'opportunità imprenditoriale emozionante, che combina adrenalina, natura e turismo. Il deltaplano è uno sport che affascina un pubblico variegato, dagli…
-cover: /images/covers/idea-092.svg
-cover_alt: Copertina editoriale per Centro volo con deltaplano
+cover: /images/covers/idea-092.jpg
+cover_alt: Foto di copertina per Centro volo con deltaplano
 icon: plane
 identikit:
   investimento: basso

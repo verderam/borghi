@@ -7,8 +7,8 @@ categorie:
 - cibo-e-bevande
 weight: 54
 summary: Aprire un’enoteca in un borgo italiano è un progetto affascinante, ricco di opportunità e suggestioni. I borghi sono luoghi intrisi di storia, cultura e tradizioni, perfetti per ospitare uno spazio dedicato…
-cover: /images/covers/idea-054.svg
-cover_alt: Copertina editoriale per Enoteca
+cover: /images/covers/idea-054.jpg
+cover_alt: Foto di copertina per Enoteca
 icon: wine
 identikit:
   investimento: basso - medio

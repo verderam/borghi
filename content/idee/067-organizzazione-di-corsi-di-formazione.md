@@ -7,8 +7,8 @@ categorie:
 - servizi-e-artigianato
 weight: 67
 summary: Organizzare corsi di formazione in un borgo italiano offre un’opportunità unica per apprendere in un ambiente ricco di storia, cultura e bellezza naturale. Questi luoghi offrono una dimensione più raccolta…
-cover: /images/covers/idea-067.svg
-cover_alt: Copertina editoriale per Organizzazione di corsi di formazione
+cover: /images/covers/idea-067.jpg
+cover_alt: Foto di copertina per Organizzazione di corsi di formazione
 icon: graduation-cap
 identikit:
   investimento: basso

@@ -7,8 +7,8 @@ categorie:
 - cibo-e-bevande
 weight: 41
 summary: Aprire un microbirrificio o un agribirrificio in un borgo italiano può essere un'idea vincente per diversi motivi. I piccoli borghi, con il loro fascino autentico e la ricchezza di tradizioni locali,…
-cover: /images/covers/idea-041.svg
-cover_alt: Copertina editoriale per Microbirrificio - agribirrificio
+cover: /images/covers/idea-041.jpg
+cover_alt: Foto di copertina per Microbirrificio - agribirrificio
 icon: beer
 identikit:
   investimento: medio

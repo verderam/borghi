@@ -7,8 +7,8 @@ categorie:
 - cibo-e-bevande
 weight: 38
 summary: Aprire un agriristorante o un'agripizzeria in un borgo italiano è una scelta imprenditoriale che unisce la tradizione con un'attrattiva moderna e sostenibile. La forza principale di un'attività del genere…
-cover: /images/covers/idea-038.svg
-cover_alt: Copertina editoriale per Agriristorante - agripizzeria
+cover: /images/covers/idea-038.jpg
+cover_alt: Foto di copertina per Agriristorante - agripizzeria
 icon: utensils
 identikit:
   investimento: basso - medio

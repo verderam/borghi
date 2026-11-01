@@ -7,8 +7,8 @@ categorie:
 - ospitalita-e-turismo
 weight: 82
 summary: La creazione di un'area attrezzata in un borgo italiano è una scelta strategica che unisce il potenziale turistico con la valorizzazione del patrimonio locale. Molti borghi, ricchi di storia e fascino,…
-cover: /images/covers/idea-082.svg
-cover_alt: Copertina editoriale per Area attrezzata picnic
+cover: /images/covers/idea-082.jpg
+cover_alt: Foto di copertina per Area attrezzata picnic
 icon: tent
 identikit:
   investimento: basso – medio - alto

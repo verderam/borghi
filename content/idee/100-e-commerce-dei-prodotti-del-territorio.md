@@ -7,8 +7,8 @@ categorie:
 - commercio-locale
 weight: 100
 summary: Un’attività di e-commerce dedicata ai prodotti locali in un borgo italiano rappresenta una straordinaria opportunità di valorizzazione territoriale e imprenditoriale. I borghi, custodi di tradizioni,…
-cover: /images/covers/idea-100.svg
-cover_alt: Copertina editoriale per E-commerce dei prodotti del territorio
+cover: /images/covers/idea-100.jpg
+cover_alt: Foto di copertina per E-commerce dei prodotti del territorio
 icon: shopping-cart
 identikit:
   investimento: basso – medio

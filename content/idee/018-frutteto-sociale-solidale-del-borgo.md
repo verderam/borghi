@@ -7,8 +7,8 @@ categorie:
 - coltivazioni-e-territorio
 weight: 18
 summary: Un frutteto sociale in un borgo italiano rappresenta un’iniziativa preziosa per promuovere inclusione, sostenibilità e partecipazione comunitaria. Creare uno spazio dedicato alla coltivazione condivisa…
-cover: /images/covers/idea-018.svg
-cover_alt: Copertina editoriale per Frutteto sociale/solidale del borgo
+cover: /images/covers/idea-018.jpg
+cover_alt: Foto di copertina per Frutteto sociale/solidale del borgo
 icon: trees
 identikit:
   investimento: basso - medio

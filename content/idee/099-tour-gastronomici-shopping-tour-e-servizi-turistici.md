@@ -7,8 +7,8 @@ categorie:
 - commercio-locale
 weight: 99
 summary: Avviare un'attività di organizzazione di shopping tour e servizi turistici in un borgo italiano è un'opportunità affascinante che unisce commercio, cultura ed esperienze autentiche. I borghi italiani, con…
-cover: /images/covers/idea-099.svg
-cover_alt: Copertina editoriale per Tour gastronomici, shopping tour e servizi turistici
+cover: /images/covers/idea-099.jpg
+cover_alt: Foto di copertina per Tour gastronomici, shopping tour e servizi turistici
 icon: map-pinned
 identikit:
   investimento: basso

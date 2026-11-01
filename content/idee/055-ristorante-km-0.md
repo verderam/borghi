@@ -7,8 +7,8 @@ categorie:
 - cibo-e-bevande
 weight: 55
 summary: Aprire un ristorante a km0 in un borgo italiano significa abbracciare l’autenticità e la sostenibilità, creando un luogo in cui il cibo racconta il territorio. I borghi italiani, con le loro radici storiche…
-cover: /images/covers/idea-055.svg
-cover_alt: Copertina editoriale per Ristorante km 0
+cover: /images/covers/idea-055.jpg
+cover_alt: Foto di copertina per Ristorante km 0
 icon: map-pin
 identikit:
   investimento: medio

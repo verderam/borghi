@@ -7,8 +7,8 @@ categorie:
 - sport-e-tempo-libero
 weight: 90
 summary: Aprire un bicigrill, un punto di ristoro dedicato ai ciclisti e agli appassionati di attività outdoor, può essere una scelta imprenditoriale davvero interessante. L'aumento della pratica del ciclismo, sia…
-cover: /images/covers/idea-090.svg
-cover_alt: Copertina editoriale per BiciGrill
+cover: /images/covers/idea-090.jpg
+cover_alt: Foto di copertina per BiciGrill
 icon: bike
 identikit:
   investimento: basso - medio

@@ -7,8 +7,8 @@ categorie:
 - coltivazioni-e-territorio
 weight: 2
 summary: Una coltivazione di fragole fuori suolo può diventare un elemento di forte attrattività per un borgo italiano, unendo innovazione agricola e valorizzazione del territorio. Questo tipo di produzione, pulita…
-cover: /images/covers/idea-002.svg
-cover_alt: Copertina editoriale per Coltivazione di fragole fuori suolo
+cover: /images/covers/idea-002.jpg
+cover_alt: Foto di copertina per Coltivazione di fragole fuori suolo
 icon: sprout
 identikit:
   investimento: basso - medio

@@ -7,8 +7,8 @@ categorie:
 - ospitalita-e-turismo
 weight: 78
 summary: Aprire un ostello della gioventù in un borgo italiano è un’idea stimolante e piena di potenziale. I borghi italiani, con il loro fascino storico e la loro autenticità, possono diventare mete perfette per i…
-cover: /images/covers/idea-078.svg
-cover_alt: Copertina editoriale per Ostello della gioventu'
+cover: /images/covers/idea-078.jpg
+cover_alt: Foto di copertina per Ostello della gioventu'
 icon: backpack
 identikit:
   investimento: medio elevato

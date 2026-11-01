@@ -7,8 +7,8 @@ categorie:
 - sport-e-tempo-libero
 weight: 89
 summary: L'avvio di un parco divertimenti è un'idea imprenditoriale che cattura l'immaginazione e promette interessanti ritorni economici e sociali. I parchi divertimento hanno un'attrattiva universale, capace di…
-cover: /images/covers/idea-089.svg
-cover_alt: Copertina editoriale per Parco divertimenti
+cover: /images/covers/idea-089.jpg
+cover_alt: Foto di copertina per Parco divertimenti
 icon: ferris-wheel
 identikit:
   investimento: basso – medio -elevato

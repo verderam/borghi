@@ -7,8 +7,8 @@ categorie:
 - servizi-e-artigianato
 weight: 71
 summary: Aprire una pensione per animali in un borgo italiano è un'idea imprenditoriale con grande potenziale. Sempre di più le persone che possiedono animali domestici e che quando devono viaggiare o affrontare…
-cover: /images/covers/idea-071.svg
-cover_alt: Copertina editoriale per Pensione per animali
+cover: /images/covers/idea-071.jpg
+cover_alt: Foto di copertina per Pensione per animali
 icon: paw-print
 identikit:
   investimento: basso - medio

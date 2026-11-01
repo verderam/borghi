@@ -7,8 +7,8 @@ categorie:
 - coltivazioni-e-territorio
 weight: 6
 summary: La coltivazione di funghi in un borgo italiano rappresenta un’opportunità affascinante e sostenibile, capace di coniugare tradizione agricola, innovazione e valorizzazione del territorio. I funghi, in…
-cover: /images/covers/idea-006.svg
-cover_alt: Copertina editoriale per Coltivazione di funghi
+cover: /images/covers/idea-006.jpg
+cover_alt: Foto di copertina per Coltivazione di funghi
 icon: trees
 identikit:
   investimento: basso - medio

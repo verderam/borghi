@@ -7,8 +7,8 @@ categorie:
 - coltivazioni-e-territorio
 weight: 17
 summary: La realizzazione di un orto sociale in un borgo italiano rappresenta un'iniziativa di grande attrattività e potenzialità, che va ben oltre la semplice coltivazione. In primo luogo, funge da potente…
-cover: /images/covers/idea-017.svg
-cover_alt: Copertina editoriale per Orto sociale del borgo
+cover: /images/covers/idea-017.jpg
+cover_alt: Foto di copertina per Orto sociale del borgo
 icon: users-round
 identikit:
   investimento: basso

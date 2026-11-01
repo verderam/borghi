@@ -7,8 +7,8 @@ categorie:
 - coltivazioni-e-territorio
 weight: 3
 summary: Avviare una coltivazione di piante officinali in un borgo può rivelarsi un'attività estremamente attrattiva sotto diversi aspetti. In primo luogo, la crescente attenzione verso prodotti naturali e biologici…
-cover: /images/covers/idea-003.svg
-cover_alt: Copertina editoriale per Coltivazione di erbe aromatiche e officinali
+cover: /images/covers/idea-003.jpg
+cover_alt: Foto di copertina per Coltivazione di erbe aromatiche e officinali
 icon: leaf
 identikit:
   investimento: basso - medio

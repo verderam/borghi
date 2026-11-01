@@ -7,8 +7,8 @@ categorie:
 - cibo-e-bevande
 weight: 53
 summary: Aprire un cheese bar in un borgo italiano significa valorizzare la straordinaria tradizione casearia del paese, trasformando un prodotto iconico in un’esperienza gastronomica unica.
-cover: /images/covers/idea-053.svg
-cover_alt: Copertina editoriale per Cheese bar
+cover: /images/covers/idea-053.jpg
+cover_alt: Foto di copertina per Cheese bar
 icon: cake-slice
 identikit:
   investimento: medio

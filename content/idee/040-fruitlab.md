@@ -7,8 +7,8 @@ categorie:
 - cibo-e-bevande
 weight: 40
 summary: La creazione di un fruitlab in un borgo italiano può rappresentare un'opportunità preziosa per valorizzare le risorse agricole locali e promuovere un'economia sostenibile. I piccoli borghi spesso vantano…
-cover: /images/covers/idea-040.svg
-cover_alt: Copertina editoriale per FruitLab
+cover: /images/covers/idea-040.jpg
+cover_alt: Foto di copertina per FruitLab
 icon: citrus
 identikit:
   investimento: basso – medio

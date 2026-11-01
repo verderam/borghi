@@ -7,8 +7,8 @@ categorie:
 - ruralita-e-comunita
 weight: 25
 summary: Avviare un'attività di apicoltura in un borgo italiano può rivelarsi un'idea affascinante e redditizia. I borghi italiani, con il loro paesaggio incontaminato e la ricchezza di flora autoctona, offrono un…
-cover: /images/covers/idea-025.svg
-cover_alt: Copertina editoriale per Apicoltura
+cover: /images/covers/idea-025.jpg
+cover_alt: Foto di copertina per Apicoltura
 icon: hexagon
 identikit:
   investimento: basso - medio

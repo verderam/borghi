@@ -7,8 +7,8 @@ categorie:
 - ruralita-e-comunita
 weight: 20
 summary: Aprire un agriturismo in un borgo italiano è un’idea affascinante che combina turismo, tradizione e sostenibilità. I piccoli borghi italiani vantano un patrimonio culturale e paesaggistico unico, che attira…
-cover: /images/covers/idea-020.svg
-cover_alt: Copertina editoriale per Agriturismo
+cover: /images/covers/idea-020.jpg
+cover_alt: Foto di copertina per Agriturismo
 icon: tractor
 identikit:
   investimento: medio - elevato

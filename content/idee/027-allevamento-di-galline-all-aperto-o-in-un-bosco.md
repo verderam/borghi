@@ -7,8 +7,8 @@ categorie:
 - allevamenti
 weight: 27
 summary: Avviare un allevamento di galline all’aperto o in un bosco in un borgo italiano può essere un’ottima opportunità imprenditoriale sostenibile e redditizia. L’allevamento all’aria aperta favorisce il…
-cover: /images/covers/idea-027.svg
-cover_alt: Copertina editoriale per Allevamento di galline all'aperto o in un bosco
+cover: /images/covers/idea-027.jpg
+cover_alt: Foto di copertina per Allevamento di galline all'aperto o in un bosco
 icon: egg
 identikit:
   investimento: basso - medio

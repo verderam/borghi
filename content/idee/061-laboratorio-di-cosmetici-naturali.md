@@ -7,8 +7,8 @@ categorie:
 - servizi-e-artigianato
 weight: 61
 summary: Aprire un laboratorio di cosmetici naturali in un borgo italiano può risultare un'idea affascinante e strategica. I borghi italiani sono spesso caratterizzati da una bellezza autentica e da una connessione…
-cover: /images/covers/idea-061.svg
-cover_alt: Copertina editoriale per Laboratorio di cosmetici naturali
+cover: /images/covers/idea-061.jpg
+cover_alt: Foto di copertina per Laboratorio di cosmetici naturali
 icon: sparkles
 identikit:
   investimento: basso – medio

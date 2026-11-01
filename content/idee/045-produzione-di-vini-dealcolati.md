@@ -7,8 +7,8 @@ categorie:
 - cibo-e-bevande
 weight: 45
 summary: La nascita di nuove attività dedicate alla produzione di vini dealcolati, come quella di Fabio Oberto a La Morra, è un fenomeno di grande attualità che risponde a dinamiche di mercato e sociali in forte…
-cover: /images/covers/idea-045.svg
-cover_alt: Copertina editoriale per Produzione di vini dealcolati
+cover: /images/covers/idea-045.jpg
+cover_alt: Foto di copertina per Produzione di vini dealcolati
 icon: glass-water
 identikit:
   investimento: medio elevato

@@ -7,8 +7,8 @@ categorie:
 - servizi-e-artigianato
 weight: 70
 summary: Avviare un'attività di manutenzione del verde in un borgo italiano rappresenta un'opportunità imprenditoriale affascinante e remunerativa. I piccoli centri sono, in genere, immersi in paesaggi naturali e…
-cover: /images/covers/idea-070.svg
-cover_alt: Copertina editoriale per Manutenzione del verde
+cover: /images/covers/idea-070.jpg
+cover_alt: Foto di copertina per Manutenzione del verde
 icon: scissors
 identikit:
   investimento: basso – medio

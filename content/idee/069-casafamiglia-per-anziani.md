@@ -7,8 +7,8 @@ categorie:
 - servizi-e-artigianato
 weight: 69
 summary: Creare una casafamiglia per anziani in un borgo italiano è un’idea altamente attrattiva, capace di coniugare assistenza, qualità della vita e un forte senso di comunità.
-cover: /images/covers/idea-069.svg
-cover_alt: Copertina editoriale per Casafamiglia per anziani
+cover: /images/covers/idea-069.jpg
+cover_alt: Foto di copertina per Casafamiglia per anziani
 icon: heart-handshake
 identikit:
   investimento: basso

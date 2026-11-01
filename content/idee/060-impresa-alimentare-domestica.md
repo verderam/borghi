@@ -7,8 +7,8 @@ categorie:
 - cibo-e-bevande
 weight: 60
 summary: Avviare un’Impresa Alimentare Domestica (IAD) in un borgo italiano è un’opportunità affascinante che combina tradizione, autenticità e imprenditorialità. In un contesto dove la valorizzazione dei prodotti…
-cover: /images/covers/idea-060.svg
-cover_alt: Copertina editoriale per Impresa alimentare domestica
+cover: /images/covers/idea-060.jpg
+cover_alt: Foto di copertina per Impresa alimentare domestica
 icon: cooking-pot
 identikit:
   investimento: basso

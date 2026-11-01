@@ -7,8 +7,8 @@ categorie:
 - commercio-locale
 weight: 97
 summary: Aprire un negozio di prodotti tipici locali in un borgo italiano rappresenta un'opportunità affascinante e strategica, sia dal punto di vista economico che culturale. I borghi italiani, spesso immersi in…
-cover: /images/covers/idea-097.svg
-cover_alt: Copertina editoriale per Negozio prodotti tipici locali
+cover: /images/covers/idea-097.jpg
+cover_alt: Foto di copertina per Negozio prodotti tipici locali
 icon: shopping-bag
 identikit:
   investimento: basso – medio

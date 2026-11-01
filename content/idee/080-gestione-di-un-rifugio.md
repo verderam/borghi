@@ -7,8 +7,8 @@ categorie:
 - ospitalita-e-turismo
 weight: 80
 summary: 'Gestire un rifugio di montagna è molto più di un semplice lavoro: è una scelta di vita che unisce passione, natura e relazioni umane. L’attività si svolge in un contesto straordinario: immersi tra vette,…'
-cover: /images/covers/idea-080.svg
-cover_alt: Copertina editoriale per Gestione di un rifugio
+cover: /images/covers/idea-080.jpg
+cover_alt: Foto di copertina per Gestione di un rifugio
 icon: mountain-snow
 identikit:
   investimento: basso – medio - elevato

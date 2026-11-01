@@ -7,8 +7,8 @@ categorie:
 - cibo-e-bevande
 weight: 37
 summary: Aprire un'agrigelateria in un borgo italiano può risultare un'idea vincente per valorizzare i prodotti locali e attirare turisti alla ricerca di esperienze autentiche. L'Italia vanta una lunga tradizione…
-cover: /images/covers/idea-037.svg
-cover_alt: Copertina editoriale per Agrigelateria
+cover: /images/covers/idea-037.jpg
+cover_alt: Foto di copertina per Agrigelateria
 icon: ice-cream-bowl
 identikit:
   investimento: basso

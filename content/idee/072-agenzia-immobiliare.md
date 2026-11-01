@@ -7,8 +7,8 @@ categorie:
 - servizi-e-artigianato
 weight: 72
 summary: Aprire un’agenzia immobiliare in un piccolo borgo italiano è oggi una scelta strategica e affascinante, che unisce spirito imprenditoriale e amore per il territorio. I borghi, spesso trascurati dalle grandi…
-cover: /images/covers/idea-072.svg
-cover_alt: Copertina editoriale per Agenzia immobiliare
+cover: /images/covers/idea-072.jpg
+cover_alt: Foto di copertina per Agenzia immobiliare
 icon: key-round
 identikit:
   investimento: basso - medio

@@ -7,8 +7,8 @@ categorie:
 - ospitalita-e-turismo
 weight: 73
 summary: L’attività di guida turistica in un borgo rappresenta una professione affascinante in grado di coniugare passione per la cultura, amore per il territorio e capacità comunicative. I borghi italiani, con le…
-cover: /images/covers/idea-073.svg
-cover_alt: Copertina editoriale per Guida turistica del territorio
+cover: /images/covers/idea-073.jpg
+cover_alt: Foto di copertina per Guida turistica del territorio
 icon: map
 identikit:
   investimento: basso

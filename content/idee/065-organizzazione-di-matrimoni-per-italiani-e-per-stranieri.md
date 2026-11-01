@@ -7,8 +7,8 @@ categorie:
 - servizi-e-artigianato
 weight: 65
 summary: Avviare un’attività di organizzazione di matrimoni in un borgo italiano è un’idea affascinante e altamente attrattiva, per il mercato sia nazionale che internazionale. L’Italia è da sempre una delle…
-cover: /images/covers/idea-065.svg
-cover_alt: Copertina editoriale per Organizzazione di matrimoni per italiani e per stranieri
+cover: /images/covers/idea-065.jpg
+cover_alt: Foto di copertina per Organizzazione di matrimoni per italiani e per stranieri
 icon: heart
 identikit:
   investimento: basso - medio

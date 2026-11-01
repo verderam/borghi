@@ -7,8 +7,8 @@ categorie:
 - ospitalita-e-turismo
 weight: 81
 summary: Creare un'area sosta camper in un borgo italiano può essere un'idea vincente per valorizzare il territorio e attrarre un nuovo segmento di turismo. I viaggiatori in camper cercano luoghi autentici, immersi…
-cover: /images/covers/idea-081.svg
-cover_alt: Copertina editoriale per Area sosta camper
+cover: /images/covers/idea-081.jpg
+cover_alt: Foto di copertina per Area sosta camper
 icon: caravan
 identikit:
   investimento: medio - elevato

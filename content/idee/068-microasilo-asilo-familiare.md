@@ -7,8 +7,8 @@ categorie:
 - servizi-e-artigianato
 weight: 68
 summary: La creazione di un microasilo o asilo familiare in un borgo italiano rappresenta un'iniziativa di grande attrattività e importanza sociale. Contrariamente ai grandi nidi d'infanzia cittadini, questa…
-cover: /images/covers/idea-068.svg
-cover_alt: Copertina editoriale per Microasilo – asilo familiare
+cover: /images/covers/idea-068.jpg
+cover_alt: Foto di copertina per Microasilo – asilo familiare
 icon: baby
 identikit:
   investimento: basso

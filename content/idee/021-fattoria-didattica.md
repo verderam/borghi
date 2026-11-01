@@ -7,8 +7,8 @@ categorie:
 - ruralita-e-comunita
 weight: 21
 summary: Aprire una fattoria didattica in un borgo italiano è un’opportunità straordinaria per unire educazione, sostenibilità e valorizzazione del territorio. I borghi italiani, con il loro fascino autentico e il…
-cover: /images/covers/idea-021.svg
-cover_alt: Copertina editoriale per Fattoria didattica
+cover: /images/covers/idea-021.jpg
+cover_alt: Foto di copertina per Fattoria didattica
 icon: school
 identikit:
   investimento: medio

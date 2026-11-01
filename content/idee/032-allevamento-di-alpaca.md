@@ -7,8 +7,8 @@ categorie:
 - allevamenti
 weight: 32
 summary: Gli allevamenti di alpaca rappresentano un'opportunità unica per i borghi italiani, combinando il fascino della tradizione rurale con un'attività insolita e molto attraente. La presenza di questi animali,…
-cover: /images/covers/idea-032.svg
-cover_alt: Copertina editoriale per Allevamento di alpaca
+cover: /images/covers/idea-032.jpg
+cover_alt: Foto di copertina per Allevamento di alpaca
 icon: mountain
 identikit:
   investimento: basso – medio

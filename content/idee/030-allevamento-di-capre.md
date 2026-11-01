@@ -7,8 +7,8 @@ categorie:
 - allevamenti
 weight: 30
 summary: In molti borghi italiani, l'avvio di un allevamento di capre può rappresentare un'opportunità affascinante e sostenibile. Questa attività, che richiede dedizione continua, si inserisce perfettamente nel…
-cover: /images/covers/idea-030.svg
-cover_alt: Copertina editoriale per Allevamento di capre
+cover: /images/covers/idea-030.jpg
+cover_alt: Foto di copertina per Allevamento di capre
 icon: paw-print
 identikit:
   investimento: basso - medio

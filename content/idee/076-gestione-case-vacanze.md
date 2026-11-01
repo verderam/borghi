@@ -7,8 +7,8 @@ categorie:
 - ospitalita-e-turismo
 weight: 76
 summary: Aprire un'attività di gestione di case vacanze in un borgo italiano è un'opportunità interessante per chi vuole operare nel settore turistico. I borghi italiani, ricchi di storia e fascino, attraggono…
-cover: /images/covers/idea-076.svg
-cover_alt: Copertina editoriale per Gestione case vacanze
+cover: /images/covers/idea-076.jpg
+cover_alt: Foto di copertina per Gestione case vacanze
 icon: house
 identikit:
   investimento: basso

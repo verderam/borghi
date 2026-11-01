@@ -7,8 +7,8 @@ categorie:
 - commercio-locale
 weight: 98
 summary: L'uso degli spazi di un borgo italiano come temporary shop è una soluzione innovativa che coniuga tradizione e modernità, offrendo opportunità commerciali dinamiche e stimolanti. I borghi, con il loro…
-cover: /images/covers/idea-098.svg
-cover_alt: Copertina editoriale per Borgo temporary shop
+cover: /images/covers/idea-098.jpg
+cover_alt: Foto di copertina per Borgo temporary shop
 icon: store
 identikit:
   investimento: basso - medio

@@ -7,8 +7,8 @@ categorie:
 - coltivazioni-e-territorio
 weight: 11
 summary: L'introduzione di una nuova coltivazione di ortaggi antichi in un borgo italiano possiede un'attrattività intrinseca e molteplice, capace di generare un impatto positivo ben oltre il solo ambito agricolo.…
-cover: /images/covers/idea-011.svg
-cover_alt: Copertina editoriale per Coltivazione di ortaggi e piante antiche
+cover: /images/covers/idea-011.jpg
+cover_alt: Foto di copertina per Coltivazione di ortaggi e piante antiche
 icon: carrot
 identikit:
   investimento: basso - medio

@@ -7,8 +7,8 @@ categorie:
 - coltivazioni-e-territorio
 weight: 12
 summary: Avviare una coltivazione di frutti dimenticati può rappresentare un'iniziativa affascinante e di grande valore per un borgo italiano. Questi frutti, quasi sempre trascurati dall’agricoltura moderna e dalla…
-cover: /images/covers/idea-012.svg
-cover_alt: Copertina editoriale per Coltivazione di frutti dimenticati
+cover: /images/covers/idea-012.jpg
+cover_alt: Foto di copertina per Coltivazione di frutti dimenticati
 icon: apple
 identikit:
   investimento: basso

@@ -7,8 +7,8 @@ categorie:
 - allevamenti
 weight: 35
 summary: Aprire un maneggio in un borgo italiano può essere un'opportunità straordinaria sia economica che culturale. I borghi, con il loro fascino storico e il contesto naturale, offrono un'atmosfera unica che ben…
-cover: /images/covers/idea-035.svg
-cover_alt: Copertina editoriale per Maneggio
+cover: /images/covers/idea-035.jpg
+cover_alt: Foto di copertina per Maneggio
 icon: paw-print
 identikit:
   investimento: medio

@@ -7,8 +7,8 @@ categorie:
 - cibo-e-bevande
 weight: 51
 summary: Aprire una focacceria e pizzeria al taglio in un borgo italiano significa celebrare la tradizione gastronomica locale e rispondere alla crescente domanda di cibo autentico e di qualità. I borghi italiani,…
-cover: /images/covers/idea-051.svg
-cover_alt: Copertina editoriale per Focacceria e pizzeria al taglio
+cover: /images/covers/idea-051.jpg
+cover_alt: Foto di copertina per Focacceria e pizzeria al taglio
 icon: pizza
 identikit:
   investimento: basso – medio

@@ -7,8 +7,8 @@ categorie:
 - allevamenti
 weight: 33
 summary: Un allevamento di animali di razze autoctone in un borgo italiano rappresenta un'opportunità unica per valorizzare il patrimonio locale e promuovere la sostenibilità. In un contesto caratterizzato da…
-cover: /images/covers/idea-033.svg
-cover_alt: Copertina editoriale per Allevamento di razze autoctone
+cover: /images/covers/idea-033.jpg
+cover_alt: Foto di copertina per Allevamento di razze autoctone
 icon: paw-print
 identikit:
   investimento: basso - medio

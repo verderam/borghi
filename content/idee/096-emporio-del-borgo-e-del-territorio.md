@@ -7,8 +7,8 @@ categorie:
 - commercio-locale
 weight: 96
 summary: La creazione di un emporio al servizio del borgo e del suo territorio rappresenta un'opportunità preziosa per valorizzare l'identità locale e rafforzare il tessuto sociale ed economico. Un emporio non è…
-cover: /images/covers/idea-096.svg
-cover_alt: Copertina editoriale per Emporio del borgo e del territorio
+cover: /images/covers/idea-096.jpg
+cover_alt: Foto di copertina per Emporio del borgo e del territorio
 icon: store
 identikit:
   investimento: basso – medio

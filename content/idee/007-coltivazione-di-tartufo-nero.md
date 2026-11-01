@@ -7,8 +7,8 @@ categorie:
 - coltivazioni-e-territorio
 weight: 7
 summary: Avviare una coltivazione di tartufo nero in un borgo italiano rappresenta un'opportunità di business estremamente interessante e redditizia. L'attrattività di questa scelta risiede in diversi fattori chiave…
-cover: /images/covers/idea-007.svg
-cover_alt: Copertina editoriale per Coltivazione di tartufo nero
+cover: /images/covers/idea-007.jpg
+cover_alt: Foto di copertina per Coltivazione di tartufo nero
 icon: scan-search
 identikit:
   investimento: basso - medio

@@ -7,8 +7,8 @@ categorie:
 - coltivazioni-e-territorio
 weight: 14
 summary: Avviare una coltivazione di piante esotiche e tropicali in un borgo italiano è un’idea innovativa che può avere un grande fascino e molteplici vantaggi. Grazie al cambiamento climatico e all’adattabilità di…
-cover: /images/covers/idea-014.svg
-cover_alt: Copertina editoriale per Coltivazione di piante esotiche e tropicali
+cover: /images/covers/idea-014.jpg
+cover_alt: Foto di copertina per Coltivazione di piante esotiche e tropicali
 icon: tree-palm
 identikit:
   investimento: basso – medio

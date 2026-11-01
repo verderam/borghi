@@ -7,8 +7,8 @@ categorie:
 - coltivazioni-e-territorio
 weight: 8
 summary: Avviare una coltivazione di piante autoctone in un borgo italiano è un'opportunità preziosa per valorizzare il territorio e promuovere la sostenibilità ambientale. Le specie locali sono perfettamente…
-cover: /images/covers/idea-008.svg
-cover_alt: Copertina editoriale per Coltivazione di varieta' di piante autoctone
+cover: /images/covers/idea-008.jpg
+cover_alt: Foto di copertina per Coltivazione di varieta' di piante autoctone
 icon: sprout
 identikit:
   investimento: basso - medio

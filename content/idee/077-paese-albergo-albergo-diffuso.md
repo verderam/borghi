@@ -7,8 +7,8 @@ categorie:
 - ospitalita-e-turismo
 weight: 77
 summary: L'idea di creare un albergo diffuso in un borgo italiano è un progetto affascinante e con un grande potenziale. Questo modello di ospitalità, nato in Italia, valorizza edifici esistenti del borgo…
-cover: /images/covers/idea-077.svg
-cover_alt: Copertina editoriale per Paese albergo – albergo diffuso
+cover: /images/covers/idea-077.jpg
+cover_alt: Foto di copertina per Paese albergo – albergo diffuso
 icon: building-2
 identikit:
   investimento: medio - elevato

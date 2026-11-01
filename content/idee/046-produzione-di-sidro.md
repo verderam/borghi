@@ -7,8 +7,8 @@ categorie:
 - cibo-e-bevande
 weight: 46
 summary: Avviare un’attività di produzione di sidro in un borgo italiano può essere un’opportunità affascinante e redditizia. I piccoli borghi spesso vantano tradizioni agricole profonde e varietà di mele autoctone,…
-cover: /images/covers/idea-046.svg
-cover_alt: Copertina editoriale per Produzione di sidro
+cover: /images/covers/idea-046.jpg
+cover_alt: Foto di copertina per Produzione di sidro
 icon: cup-soda
 identikit:
   investimento: medio

@@ -7,8 +7,8 @@ categorie:
 - allevamenti
 weight: 34
 summary: Un allevamento di animali in adozione in un borgo italiano rappresenta un'iniziativa preziosa che coniuga il benessere animale con la partecipazione della comunità e il turismo responsabile. In un ambiente…
-cover: /images/covers/idea-034.svg
-cover_alt: Copertina editoriale per Allevamento di animali in adozione
+cover: /images/covers/idea-034.jpg
+cover_alt: Foto di copertina per Allevamento di animali in adozione
 icon: heart-handshake
 identikit:
   investimento: basso - medio

@@ -7,8 +7,8 @@ categorie:
 - coltivazioni-e-territorio
 weight: 19
 summary: L’abbattimento e il taglio di legna da ardere in un borgo italiano possono rappresentare un’attività strategica e sostenibile, in grado di valorizzare le masse legnose inutilizzate e favorire l’economia…
-cover: /images/covers/idea-019.svg
-cover_alt: Copertina editoriale per Abbattimento e taglio di legna da ardere
+cover: /images/covers/idea-019.jpg
+cover_alt: Foto di copertina per Abbattimento e taglio di legna da ardere
 icon: axe
 identikit:
   investimento: basso - medio

@@ -7,8 +7,8 @@ categorie:
 - servizi-e-artigianato
 weight: 64
 summary: L’utilizzo di un borgo italiano come location per eventi può offrire un’esperienza unica, capace di coniugare storia, tradizione e bellezza. Questi luoghi incantevoli, spesso arroccati su colline o…
-cover: /images/covers/idea-064.svg
-cover_alt: Copertina editoriale per Borgo location di eventi
+cover: /images/covers/idea-064.jpg
+cover_alt: Foto di copertina per Borgo location di eventi
 icon: calendar-days
 identikit:
   investimento: basso - medio

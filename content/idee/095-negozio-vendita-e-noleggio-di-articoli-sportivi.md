@@ -7,8 +7,8 @@ categorie:
 - sport-e-tempo-libero
 weight: 95
 summary: Avviare un’attività di vendita e noleggio di articoli sportivi in un borgo italiano può rivelarsi un’opportunità imprenditoriale affascinante e redditizia. I borghi, spesso immersi in contesti naturali…
-cover: /images/covers/idea-095.svg
-cover_alt: Copertina editoriale per Negozio vendita e noleggio di articoli sportivi
+cover: /images/covers/idea-095.jpg
+cover_alt: Foto di copertina per Negozio vendita e noleggio di articoli sportivi
 icon: dumbbell
 identikit:
   investimento: medio

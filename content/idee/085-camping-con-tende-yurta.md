@@ -7,8 +7,8 @@ categorie:
 - ospitalita-e-turismo
 weight: 85
 summary: Creare un campeggio con tende yurta in un borgo italiano è un’idea innovativa che combina il fascino del turismo outdoor con l’autenticità delle tradizioni nomadi. Le yurte, originarie delle popolazioni…
-cover: /images/covers/idea-085.svg
-cover_alt: Copertina editoriale per Camping con tende yurta
+cover: /images/covers/idea-085.jpg
+cover_alt: Foto di copertina per Camping con tende yurta
 icon: tent
 identikit:
   investimento: medio elevato

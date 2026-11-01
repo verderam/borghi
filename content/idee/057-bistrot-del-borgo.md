@@ -7,8 +7,8 @@ categorie:
 - cibo-e-bevande
 weight: 57
 summary: Aprire un bistrot in un borgo italiano ha un'attrattiva intrinseca, che va ben oltre il semplice esercizio commerciale. Innanzitutto, si inserisce in un contesto storico e culturale unico, offrendo ai…
-cover: /images/covers/idea-057.svg
-cover_alt: Copertina editoriale per Bistrot del borgo
+cover: /images/covers/idea-057.jpg
+cover_alt: Foto di copertina per Bistrot del borgo
 icon: coffee
 identikit:
   investimento: medio

@@ -7,8 +7,8 @@ categorie:
 - ospitalita-e-turismo
 weight: 83
 summary: Aprire un campeggio in un borgo italiano può essere una scelta vincente per intercettare il crescente interesse verso il turismo outdoor e sostenibile. I borghi italiani, immersi in paesaggi naturali e…
-cover: /images/covers/idea-083.svg
-cover_alt: Copertina editoriale per Campeggio
+cover: /images/covers/idea-083.jpg
+cover_alt: Foto di copertina per Campeggio
 icon: tent
 identikit:
   investimento: medio elevato

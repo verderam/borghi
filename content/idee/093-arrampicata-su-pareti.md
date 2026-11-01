@@ -7,8 +7,8 @@ categorie:
 - sport-e-tempo-libero
 weight: 93
 summary: L'avvio di un centro di arrampicata su pareti rappresenta una straordinaria opportunità imprenditoriale che combina sport, divertimento e aggregazione sociale. L'arrampicata è in crescita come disciplina…
-cover: /images/covers/idea-093.svg
-cover_alt: Copertina editoriale per Arrampicata su pareti
+cover: /images/covers/idea-093.jpg
+cover_alt: Foto di copertina per Arrampicata su pareti
 icon: mountain
 identikit:
   investimento: basso - medio

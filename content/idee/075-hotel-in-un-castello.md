@@ -7,8 +7,8 @@ categorie:
 - ospitalita-e-turismo
 weight: 75
 summary: L'idea di trasformare un castello in un hotel in un borgo italiano è affascinante e ricca di potenziale. Si tratta di un'impresa che unisce storia, architettura e lusso, creando un'esperienza di soggiorno…
-cover: /images/covers/idea-075.svg
-cover_alt: Copertina editoriale per Hotel in un castello
+cover: /images/covers/idea-075.jpg
+cover_alt: Foto di copertina per Hotel in un castello
 icon: castle
 identikit:
   investimento: medio - elevato

@@ -7,8 +7,8 @@ categorie:
 - coltivazioni-e-territorio
 weight: 4
 summary: La coltivazione dello zafferano si sta affermando come una fonte di reddito sempre più interessante per molti borghi italiani, offrendo un'alternativa sostenibile all'agricoltura tradizionale. I territori…
-cover: /images/covers/idea-004.svg
-cover_alt: Copertina editoriale per Coltivazione di zafferano
+cover: /images/covers/idea-004.jpg
+cover_alt: Foto di copertina per Coltivazione di zafferano
 icon: flower-2
 identikit:
   investimento: basso - medio

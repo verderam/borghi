@@ -7,8 +7,8 @@ categorie:
 - cibo-e-bevande
 weight: 36
 summary: 'Il recupero di un prodotto gastronomico locale dimenticato non è soltanto un gesto culinario: è un atto culturale, quasi politico, che restituisce dignità a un pezzo di storia rimasto nell’ombra. Ogni…'
-cover: /images/covers/idea-036.svg
-cover_alt: Copertina editoriale per Recupero e rilancio di un prodotto gastronomico dimenticato
+cover: /images/covers/idea-036.jpg
+cover_alt: Foto di copertina per Recupero e rilancio di un prodotto gastronomico dimenticato
 icon: cooking-pot
 identikit:
   investimento: basso - medio

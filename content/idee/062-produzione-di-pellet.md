@@ -7,8 +7,8 @@ categorie:
 - servizi-e-artigianato
 weight: 62
 summary: Avviare un’attività di produzione di pellet in un borgo italiano può rappresentare un’opportunità imprenditoriale di grande interesse, sostenibile e radicata nel territorio. I borghi, spesso immersi in aree…
-cover: /images/covers/idea-062.svg
-cover_alt: Copertina editoriale per Produzione di pellet
+cover: /images/covers/idea-062.jpg
+cover_alt: Foto di copertina per Produzione di pellet
 icon: recycle
 identikit:
   investimento: medio

@@ -7,8 +7,8 @@ categorie:
 - servizi-e-artigianato
 weight: 66
 summary: Creare un centro estivo o un summer camp in un borgo italiano è un’idea affascinante e ricca di potenzialità. Questi luoghi offrono un ambiente tranquillo, sicuro e stimolante, lontano dal caos urbano, dove…
-cover: /images/covers/idea-066.svg
-cover_alt: Copertina editoriale per Centro estivo – summer camp
+cover: /images/covers/idea-066.jpg
+cover_alt: Foto di copertina per Centro estivo – summer camp
 icon: tent-tree
 identikit:
   investimento: basso

@@ -7,8 +7,8 @@ categorie:
 - allevamenti
 weight: 29
 summary: Avviare un allevamento di pecore in un borgo italiano può rappresentare una scelta affascinante e strategica, sia dal punto di vista economico che culturale. In un contesto rurale, spesso caratterizzato da…
-cover: /images/covers/idea-029.svg
-cover_alt: Copertina editoriale per Allevamento di pecore
+cover: /images/covers/idea-029.jpg
+cover_alt: Foto di copertina per Allevamento di pecore
 icon: paw-print
 identikit:
   investimento: basso - medio

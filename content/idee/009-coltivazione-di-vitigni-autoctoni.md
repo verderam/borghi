@@ -7,8 +7,8 @@ categorie:
 - coltivazioni-e-territorio
 weight: 9
 summary: La coltivazione e il rilancio di un vitigno autoctono rappresentano una straordinaria opportunità per valorizzare il territorio, preservare la biodiversità e riscoprire tradizioni enologiche spesso…
-cover: /images/covers/idea-009.svg
-cover_alt: Copertina editoriale per Coltivazione di vitigni autoctoni
+cover: /images/covers/idea-009.jpg
+cover_alt: Foto di copertina per Coltivazione di vitigni autoctoni
 icon: grape
 identikit:
   investimento: basso – medio - elevato

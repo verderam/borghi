@@ -7,8 +7,8 @@ categorie:
 - ruralita-e-comunita
 weight: 24
 summary: Un'impresa agricola multifunzione in un pittoresco borgo italiano incarna un modello che va ben oltre il mero profitto economico.
-cover: /images/covers/idea-024.svg
-cover_alt: Copertina editoriale per Azienda agricola multifunzione
+cover: /images/covers/idea-024.jpg
+cover_alt: Foto di copertina per Azienda agricola multifunzione
 icon: combine
 identikit:
   investimento: medio

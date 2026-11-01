@@ -7,8 +7,8 @@ categorie:
 - cibo-e-bevande
 weight: 43
 summary: Aprire una piccola norcineria in un borgo italiano rappresenta un'opportunità affascinante e ricca di potenziale. I borghi, con la loro autenticità e tradizione, offrono un contesto ideale per valorizzare…
-cover: /images/covers/idea-043.svg
-cover_alt: Copertina editoriale per Norcineria
+cover: /images/covers/idea-043.jpg
+cover_alt: Foto di copertina per Norcineria
 icon: drumstick
 identikit:
   investimento: basso - medio

@@ -7,8 +7,8 @@ categorie:
 - cibo-e-bevande
 weight: 50
 summary: L'apertura di un panificio con micro-mulino in un borgo italiano rappresenta un'opportunità eccezionale, sia dal punto di vista economico che culturale. In un'epoca in cui cresce l'interesse per il cibo…
-cover: /images/covers/idea-050.svg
-cover_alt: Copertina editoriale per Panetteria con micromulino
+cover: /images/covers/idea-050.jpg
+cover_alt: Foto di copertina per Panetteria con micromulino
 icon: factory
 identikit:
   investimento: medio

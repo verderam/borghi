@@ -7,8 +7,8 @@ categorie:
 - ospitalita-e-turismo
 weight: 79
 summary: Creare una work station per nomadi digitali in un borgo italiano rappresenta un’opportunità affascinante e strategica per valorizzare territori spesso dimenticati. I borghi italiani offrono un mix…
-cover: /images/covers/idea-079.svg
-cover_alt: Copertina editoriale per Coworking per nomadi digitali
+cover: /images/covers/idea-079.jpg
+cover_alt: Foto di copertina per Coworking per nomadi digitali
 icon: laptop
 identikit:
   investimento: basso - medio

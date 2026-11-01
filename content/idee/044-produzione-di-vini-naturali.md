@@ -7,8 +7,8 @@ categorie:
 - cibo-e-bevande
 weight: 44
 summary: L'attrattività della produzione di vini naturali in un borgo italiano risiede nella sua profonda connessione con il territorio. Si tratta non solo di produrre vino, ma di valorizzare un'eredità storica,…
-cover: /images/covers/idea-044.svg
-cover_alt: Copertina editoriale per Produzione di vini naturali
+cover: /images/covers/idea-044.jpg
+cover_alt: Foto di copertina per Produzione di vini naturali
 icon: wine
 identikit:
   investimento: basso – medio

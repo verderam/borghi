@@ -7,8 +7,8 @@ categorie:
 - cibo-e-bevande
 weight: 49
 summary: Aprire una panetteria con un antico forno a legna in un borgo italiano significa valorizzare tradizione, autenticità e qualità artigianale. I borghi sono spesso luoghi ricchi di storia e cultura e un forno…
-cover: /images/covers/idea-049.svg
-cover_alt: Copertina editoriale per Panetteria con antico forno a legna
+cover: /images/covers/idea-049.jpg
+cover_alt: Foto di copertina per Panetteria con antico forno a legna
 icon: flame
 identikit:
   investimento: medio

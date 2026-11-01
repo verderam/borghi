@@ -7,8 +7,8 @@ categorie:
 - ospitalita-e-turismo
 weight: 84
 summary: Creare un glamping in un borgo italiano è un’opportunità innovativa per attrarre un turismo esperienziale di fascia alta, combinando il fascino della natura con il comfort di un hotel. Questo concetto, che…
-cover: /images/covers/idea-084.svg
-cover_alt: Copertina editoriale per Glamping
+cover: /images/covers/idea-084.jpg
+cover_alt: Foto di copertina per Glamping
 icon: tent-tree
 identikit:
   investimento: medio elevato

@@ -7,8 +7,8 @@ categorie:
 - cibo-e-bevande
 weight: 47
 summary: La produzione artigianale di kombucha e altri fermentati in un borgo italiano rappresenta un'opportunità di grande interesse, in grado di combinare tradizione, sostenibilità e innovazione. In un contesto…
-cover: /images/covers/idea-047.svg
-cover_alt: Copertina editoriale per Produzione di kombucha e di fermentati
+cover: /images/covers/idea-047.jpg
+cover_alt: Foto di copertina per Produzione di kombucha e di fermentati
 icon: flask-conical
 identikit:
   investimento: basso – medio

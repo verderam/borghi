@@ -7,8 +7,8 @@ categorie:
 - ospitalita-e-turismo
 weight: 86
 summary: Creare case sugli alberi in un borgo italiano è un’idea affascinante che unisce natura, esclusività e sostenibilità. Un numero crescente di viaggiatori cerca esperienze immersive e fuori dal comune e…
-cover: /images/covers/idea-086.svg
-cover_alt: Copertina editoriale per Case sugli alberi
+cover: /images/covers/idea-086.jpg
+cover_alt: Foto di copertina per Case sugli alberi
 icon: tree-pine
 identikit:
   investimento: medio - elevato

@@ -7,8 +7,8 @@ categorie:
 - cibo-e-bevande
 weight: 58
 summary: Aprire una ristobottega in un borgo italiano è un’idea che unisce tradizione, autenticità e innovazione, creando un luogo in cui cibo e prodotti locali diventano protagonisti. I borghi italiani sono scrigni…
-cover: /images/covers/idea-058.svg
-cover_alt: Copertina editoriale per Ristobottega
+cover: /images/covers/idea-058.jpg
+cover_alt: Foto di copertina per Ristobottega
 icon: shopping-basket
 identikit:
   investimento: basso - medio

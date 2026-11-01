@@ -7,8 +7,8 @@ categorie:
 - ruralita-e-comunita
 weight: 23
 summary: Un agririfugio è una struttura ricettiva ubicata in genere in una posizione particolarmente isolata, montana o di difficile accesso, ma gestito come azienda agricola. Frequentemente l’ubicazione è in…
-cover: /images/covers/idea-023.svg
-cover_alt: Copertina editoriale per Agririfugio
+cover: /images/covers/idea-023.jpg
+cover_alt: Foto di copertina per Agririfugio
 icon: house-plus
 identikit:
   investimento: medio elevato

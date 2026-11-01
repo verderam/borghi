@@ -7,8 +7,8 @@ categorie:
 - coltivazioni-e-territorio
 weight: 13
 summary: Il fascino della creazione di una nuova attività di coltivazione di microverdure e fiori edibili risiede in una combinazione di fattori che la rendono particolarmente attraente nel panorama agricolo e…
-cover: /images/covers/idea-013.svg
-cover_alt: Copertina editoriale per Coltivazione di microverdure e fiori edibili
+cover: /images/covers/idea-013.jpg
+cover_alt: Foto di copertina per Coltivazione di microverdure e fiori edibili
 icon: salad
 identikit:
   investimento: basso – medio

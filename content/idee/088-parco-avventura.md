@@ -7,8 +7,8 @@ categorie:
 - sport-e-tempo-libero
 weight: 88
 summary: La creazione di un parco avventura in un borgo italiano rappresenta un’opportunità strategica per valorizzare il territorio, attrarre turismo sostenibile e rivitalizzare l’economia locale. I borghi, immersi…
-cover: /images/covers/idea-088.svg
-cover_alt: Copertina editoriale per Parco avventura
+cover: /images/covers/idea-088.jpg
+cover_alt: Foto di copertina per Parco avventura
 icon: route
 identikit:
   investimento: medio - elevato

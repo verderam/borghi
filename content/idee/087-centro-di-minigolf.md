@@ -7,8 +7,8 @@ categorie:
 - sport-e-tempo-libero
 weight: 87
 summary: Avviare un centro di minigolf è un'idea affascinante e ricca di potenzialità, in grado di combinare divertimento, creatività e opportunità economiche. Il minigolf attrae un pubblico ampio, dai bambini alle…
-cover: /images/covers/idea-087.svg
-cover_alt: Copertina editoriale per Centro di minigolf
+cover: /images/covers/idea-087.jpg
+cover_alt: Foto di copertina per Centro di minigolf
 icon: flag
 identikit:
   investimento: medio

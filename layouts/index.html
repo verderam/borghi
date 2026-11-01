@@ -32,7 +32,8 @@
   <div class="shell">
     <div class="section-heading">
       <div><p class="eyebrow">Trova il tuo ambito</p><h2 id="percorsi">Otto percorsi, un solo territorio</h2></div>
-      <a class="text-link" href="{{ "/categorie/" | relURL }}">Tutti i percorsi <span aria-hidden="true">→</span></a>
+      <a class="text-link" href="{{ "/categorie/" | relURL }}">Trova le idee startup borghi di tuo interesse <span aria-hidden="true">→</span></a>
+      <a class="text-link" href="{{ "/categorie/" | relURL }}">Trova il borgo e scopri le idee realizzabili e le risorse che ti offre <span aria-hidden="true">→</span></a>
     </div>
     <div class="category-grid home-category-grid">
       {{ range $slug, $weighted := .Site.Taxonomies.categorie }}{{ partial "category-card.html" (dict "Page" $weighted.Page "Count" (len $weighted)) }}{{ end }}

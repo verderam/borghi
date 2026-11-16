@@ -1,10 +1,10 @@
 ---
-title: Orto sociale del borgo
+title: 160 Orto sociale del borgo
 slug: 017-orto-sociale-del-borgo
 number: 17
 source_code: '160'
 categorie:
-- agricoltura
+  - agricoltura
 weight: 17
 summary: La realizzazione di un orto sociale in un borgo italiano rappresenta un'iniziativa di grande attrattività e potenzialità, che va ben oltre la semplice coltivazione. In primo luogo, funge da potente…
 cover: /images/covers/idea-017.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time
   reddito: integrativo
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

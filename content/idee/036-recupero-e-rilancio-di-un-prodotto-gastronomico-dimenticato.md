@@ -1,10 +1,10 @@
 ---
-title: Recupero e rilancio di un prodotto gastronomico dimenticato
+title: 345 Recupero e rilancio di un prodotto gastronomico dimenticato
 slug: 036-recupero-e-rilancio-di-un-prodotto-gastronomico-dimenticato
 number: 36
 source_code: '345'
 categorie:
-- food
+  - food
 weight: 36
 summary: 'Il recupero di un prodotto gastronomico locale dimenticato non è soltanto un gesto culinario: è un atto culturale, quasi politico, che restituisce dignità a un pezzo di storia rimasto nell’ombra. Ogni…'
 cover: /images/covers/idea-036.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time - tempo pieno
   reddito: integrativo - principale
   rischio: basso - medio
+featured: false
 ---
 
 ## La storia

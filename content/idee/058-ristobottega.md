@@ -1,10 +1,11 @@
 ---
-title: Ristobottega
+title: 550 Ristobottega
 slug: 058-ristobottega
 number: 58
 source_code: '550'
 categorie:
-- food
+  - ristorazione
+  - commercio-e-pubblici-esercizi
 weight: 58
 summary: Aprire una ristobottega in un borgo italiano è un’idea che unisce tradizione, autenticità e innovazione, creando un luogo in cui cibo e prodotti locali diventano protagonisti. I borghi italiani sono scrigni…
 cover: /images/covers/idea-058.jpg
@@ -16,6 +17,7 @@ identikit:
   impegno: tempo pieno
   reddito: principale
   rischio: contenuto - medio
+featured: false
 ---
 
 ## La storia

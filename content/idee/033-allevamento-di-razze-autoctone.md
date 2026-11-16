@@ -1,10 +1,10 @@
 ---
-title: Allevamento di razze autoctone
+title: 320 Allevamento di razze autoctone
 slug: 033-allevamento-di-razze-autoctone
 number: 33
 source_code: '320'
 categorie:
-- allevamento
+  - allevamento
 weight: 33
 summary: Un allevamento di animali di razze autoctone in un borgo italiano rappresenta un'opportunità unica per valorizzare il patrimonio locale e promuovere la sostenibilità. In un contesto caratterizzato da…
 cover: /images/covers/idea-033.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time – tempo pieno
   reddito: integrativo - principale
   rischio: contenuto - medio
+featured: false
 ---
 
 ## La storia

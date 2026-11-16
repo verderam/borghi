@@ -1,10 +1,11 @@
 ---
-title: Maneggio
+title: 340 Maneggio
 slug: 035-maneggio
 number: 35
 source_code: '340'
 categorie:
-- allevamento
+  - allevamento
+  - sport-salute-benessere
 weight: 35
 summary: Aprire un maneggio in un borgo italiano può essere un'opportunità straordinaria sia economica che culturale. I borghi, con il loro fascino storico e il contesto naturale, offrono un'atmosfera unica che ben…
 cover: /images/covers/idea-035.jpg
@@ -16,6 +17,7 @@ identikit:
   impegno: part time – tempo pieno
   reddito: integrativo - principale
   rischio: contenuto – medio
+featured: false
 ---
 
 ## La storia

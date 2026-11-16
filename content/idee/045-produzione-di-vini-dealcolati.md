@@ -1,10 +1,10 @@
 ---
-title: Produzione di vini dealcolati
+title: 430 Produzione di vini dealcolati
 slug: 045-produzione-di-vini-dealcolati
 number: 45
 source_code: '430'
 categorie:
-- food
+  - food
 weight: 45
 summary: La nascita di nuove attività dedicate alla produzione di vini dealcolati, come quella di Fabio Oberto a La Morra, è un fenomeno di grande attualità che risponde a dinamiche di mercato e sociali in forte…
 cover: /images/covers/idea-045.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: tempo pieno
   reddito: principale
   rischio: medio - elevato
+featured: false
 ---
 
 ## La storia

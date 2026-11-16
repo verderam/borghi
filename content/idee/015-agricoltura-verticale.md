@@ -1,10 +1,10 @@
 ---
-title: Agricoltura verticale
+title: 140 Agricoltura verticale
 slug: 015-agricoltura-verticale
 number: 15
 source_code: '140'
 categorie:
-- agricoltura
+  - agricoltura
 weight: 15
 summary: Avviare un'attività di agricoltura verticale in un borgo italiano può rappresentare una svolta innovativa per la produzione sostenibile e la valorizzazione del territorio. Questo metodo di coltivazione,…
 cover: /images/covers/idea-015.jpg

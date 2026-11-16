@@ -1,10 +1,10 @@
 ---
-title: Casafamiglia per anziani
+title: 660 Casafamiglia per anziani
 slug: 069-casafamiglia-per-anziani
 number: 69
 source_code: '660'
 categorie:
-- artigianato
+  - servizi
 weight: 69
 summary: Creare una casafamiglia per anziani in un borgo italiano è un’idea altamente attrattiva, capace di coniugare assistenza, qualità della vita e un forte senso di comunità.
 cover: /images/covers/idea-069.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: tempo pieno
   reddito: integrativo - principale
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

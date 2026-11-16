@@ -1,10 +1,10 @@
 ---
-title: Coltivazione di varieta' di piante autoctone
+title: 070 Coltivazione di varieta' di piante autoctone
 slug: 008-coltivazione-di-varieta-di-piante-autoctone
 number: 8
 source_code: '070'
 categorie:
-- agricoltura
+  - agricoltura
 weight: 8
 summary: Avviare una coltivazione di piante autoctone in un borgo italiano è un'opportunità preziosa per valorizzare il territorio e promuovere la sostenibilità ambientale. Le specie locali sono perfettamente…
 cover: /images/covers/idea-008.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time – tempo pieno
   reddito: integrativo - principale
   rischio: contenuto - medio
+featured: false
 ---
 
 ## La storia

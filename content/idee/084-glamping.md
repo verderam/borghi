@@ -1,10 +1,10 @@
 ---
-title: Glamping
+title: 830 Glamping
 slug: 084-glamping
 number: 84
 source_code: '830'
 categorie:
-- ospitalita
+  - ospitalita
 weight: 84
 summary: Creare un glamping in un borgo italiano è un’opportunità innovativa per attrarre un turismo esperienziale di fascia alta, combinando il fascino della natura con il comfort di un hotel. Questo concetto, che…
 cover: /images/covers/idea-084.jpg

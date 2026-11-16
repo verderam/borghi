@@ -1,10 +1,10 @@
 ---
-title: Coltivazione di ortaggi e piante antiche
+title: 011 Coltivazione di ortaggi e piante antiche
 slug: 011-coltivazione-di-ortaggi-e-piante-antiche
 number: 11
 source_code: '100'
 categorie:
-- agricoltura
+  - agricoltura
 weight: 11
 summary: L'introduzione di una nuova coltivazione di ortaggi antichi in un borgo italiano possiede un'attrattività intrinseca e molteplice, capace di generare un impatto positivo ben oltre il solo ambito agricolo.…
 cover: /images/covers/idea-011.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time – tempo pieno
   reddito: integrativo - principale
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

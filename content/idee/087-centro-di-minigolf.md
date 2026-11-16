@@ -1,10 +1,10 @@
 ---
-title: Centro di minigolf
+title: 860 Centro di minigolf
 slug: 087-centro-di-minigolf
 number: 87
 source_code: '860'
 categorie:
-- sport-salute-benessere
+  - sport-salute-benessere
 weight: 87
 summary: Avviare un centro di minigolf è un'idea affascinante e ricca di potenzialità, in grado di combinare divertimento, creatività e opportunità economiche. Il minigolf attrae un pubblico ampio, dai bambini alle…
 cover: /images/covers/idea-087.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time
   reddito: integrativo
   rischio: contenuto - medio
+featured: false
 ---
 
 ## La storia

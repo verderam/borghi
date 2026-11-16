@@ -1,10 +1,11 @@
 ---
-title: Tour gastronomici, shopping tour e servizi turistici
+title: 980 Tour gastronomici, shopping tour e servizi turistici
 slug: 099-tour-gastronomici-shopping-tour-e-servizi-turistici
 number: 99
 source_code: '980'
 categorie:
-- commercio-e-pubblici-esercizi
+  - turismo
+  - food
 weight: 99
 summary: Avviare un'attività di organizzazione di shopping tour e servizi turistici in un borgo italiano è un'opportunità affascinante che unisce commercio, cultura ed esperienze autentiche. I borghi italiani, con…
 cover: /images/covers/idea-099.jpg
@@ -16,6 +17,7 @@ identikit:
   impegno: part time – tempo pieno
   reddito: integrativo - principale
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

@@ -1,10 +1,10 @@
 ---
-title: Microasilo – asilo familiare
+title: 650 Microasilo – asilo familiare
 slug: 068-microasilo-asilo-familiare
 number: 68
 source_code: '650'
 categorie:
-- artigianato
+  - istruzione-formazione-cultura
 weight: 68
 summary: La creazione di un microasilo o asilo familiare in un borgo italiano rappresenta un'iniziativa di grande attrattività e importanza sociale. Contrariamente ai grandi nidi d'infanzia cittadini, questa…
 cover: /images/covers/idea-068.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time – tempo pieno
   reddito: integrativo
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

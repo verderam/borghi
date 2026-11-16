@@ -1,10 +1,10 @@
 ---
-title: Produzione di pellet
+title: 590 Produzione di pellet
 slug: 062-produzione-di-pellet
 number: 62
 source_code: '590'
 categorie:
-- artigianato
+  - artigianato
 weight: 62
 summary: Avviare un’attività di produzione di pellet in un borgo italiano può rappresentare un’opportunità imprenditoriale di grande interesse, sostenibile e radicata nel territorio. I borghi, spesso immersi in aree…
 cover: /images/covers/idea-062.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: tempo pieno
   reddito: principale
   rischio: medio
+featured: false
 ---
 
 ## La storia

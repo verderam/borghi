@@ -1,10 +1,10 @@
 ---
-title: Coltivazione di tartufo nero
+title: 060 Coltivazione di tartufo nero
 slug: 007-coltivazione-di-tartufo-nero
 number: 7
 source_code: '060'
 categorie:
-- agricoltura
+  - agricoltura
 weight: 7
 summary: Avviare una coltivazione di tartufo nero in un borgo italiano rappresenta un'opportunità di business estremamente interessante e redditizia. L'attrattività di questa scelta risiede in diversi fattori chiave…
 cover: /images/covers/idea-007.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time
   reddito: integrativo
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

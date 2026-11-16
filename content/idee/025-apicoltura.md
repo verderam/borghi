@@ -1,10 +1,10 @@
 ---
-title: Apicoltura
+title: 240 Apicoltura
 slug: 025-apicoltura
 number: 25
 source_code: '240'
 categorie:
-- istruzione-formazione-cultura
+  - allevamento
 weight: 25
 summary: Avviare un'attività di apicoltura in un borgo italiano può rivelarsi un'idea affascinante e redditizia. I borghi italiani, con il loro paesaggio incontaminato e la ricchezza di flora autoctona, offrono un…
 cover: /images/covers/idea-025.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time – tempo pieno
   reddito: integrativo - principale
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

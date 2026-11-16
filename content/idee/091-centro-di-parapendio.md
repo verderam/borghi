@@ -1,10 +1,10 @@
 ---
-title: Centro di parapendio
+title: 900 Centro di parapendio
 slug: 091-centro-di-parapendio
 number: 91
 source_code: '900'
 categorie:
-- sport-salute-benessere
+  - sport-salute-benessere
 weight: 91
 summary: L'avvio di un centro di parapendio rappresenta un'opportunità imprenditoriale entusiasmante, che combina sport, avventura e bellezza naturale. Il parapendio è una delle attività più emozionanti per gli…
 cover: /images/covers/idea-091.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time
   reddito: integrativo
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

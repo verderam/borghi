@@ -1,10 +1,10 @@
 ---
-title: Case sugli alberi
+title: 850 Case sugli alberi
 slug: 086-case-sugli-alberi
 number: 86
 source_code: '850'
 categorie:
-- ospitalita
+  - ospitalita
 weight: 86
 summary: Creare case sugli alberi in un borgo italiano è un’idea affascinante che unisce natura, esclusività e sostenibilità. Un numero crescente di viaggiatori cerca esperienze immersive e fuori dal comune e…
 cover: /images/covers/idea-086.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time - tempo pieno
   reddito: integrativo - principale
   rischio: medio - elevato
+featured: false
 ---
 
 ## La storia

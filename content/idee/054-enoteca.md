@@ -1,10 +1,11 @@
 ---
-title: Enoteca
+title: 510 Enoteca
 slug: 054-enoteca
 number: 54
 source_code: '510'
 categorie:
-- food
+  - food
+  - ristorazione
 weight: 54
 summary: Aprire un’enoteca in un borgo italiano è un progetto affascinante, ricco di opportunità e suggestioni. I borghi sono luoghi intrisi di storia, cultura e tradizioni, perfetti per ospitare uno spazio dedicato…
 cover: /images/covers/idea-054.jpg
@@ -16,6 +17,7 @@ identikit:
   impegno: part time – tempo pieno
   reddito: integrativo - principale
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

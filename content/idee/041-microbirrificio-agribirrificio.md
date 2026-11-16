@@ -1,10 +1,11 @@
 ---
-title: Microbirrificio - agribirrificio
+title: 390 Microbirrificio - agribirrificio
 slug: 041-microbirrificio-agribirrificio
 number: 41
 source_code: '390'
 categorie:
-- food
+  - food
+  - agricoltura
 weight: 41
 summary: Aprire un microbirrificio o un agribirrificio in un borgo italiano può essere un'idea vincente per diversi motivi. I piccoli borghi, con il loro fascino autentico e la ricchezza di tradizioni locali,…
 cover: /images/covers/idea-041.jpg
@@ -16,6 +17,7 @@ identikit:
   impegno: tempo pieno
   reddito: principale
   rischio: contenuto - medio
+featured: false
 ---
 
 ## La storia

@@ -1,10 +1,12 @@
 ---
-title: Fattoria didattica
+title: 200 Fattoria didattica
 slug: 021-fattoria-didattica
 number: 21
 source_code: '200'
 categorie:
-- istruzione-formazione-cultura
+  - agricoltura
+  - allevamento
+  - istruzione-formazione-cultura
 weight: 21
 summary: Aprire una fattoria didattica in un borgo italiano è un’opportunità straordinaria per unire educazione, sostenibilità e valorizzazione del territorio. I borghi italiani, con il loro fascino autentico e il…
 cover: /images/covers/idea-021.jpg
@@ -16,6 +18,7 @@ identikit:
   impegno: part time – tempo pieno
   reddito: integrativo - principale
   rischio: contenuto - medio
+featured: false
 ---
 
 ## La storia

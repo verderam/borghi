@@ -1,10 +1,10 @@
 ---
-title: Coltivazione di erbe aromatiche e officinali
+title: 020 Coltivazione di erbe aromatiche e officinali
 slug: 003-coltivazione-di-erbe-aromatiche-e-officinali
 number: 3
 source_code: '020'
 categorie:
-- agricoltura
+  - agricoltura
 weight: 3
 summary: Avviare una coltivazione di piante officinali in un borgo può rivelarsi un'attività estremamente attrattiva sotto diversi aspetti. In primo luogo, la crescente attenzione verso prodotti naturali e biologici…
 cover: /images/covers/idea-003.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time – tempo pieno
   reddito: integrativo - principale
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

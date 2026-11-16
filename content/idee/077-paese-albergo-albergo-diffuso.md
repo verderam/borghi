@@ -1,10 +1,10 @@
 ---
-title: Paese albergo – albergo diffuso
+title: 760 Paese albergo – albergo diffuso
 slug: 077-paese-albergo-albergo-diffuso
 number: 77
 source_code: '760'
 categorie:
-- ospitalita
+  - ospitalita
 weight: 77
 summary: L'idea di creare un albergo diffuso in un borgo italiano è un progetto affascinante e con un grande potenziale. Questo modello di ospitalità, nato in Italia, valorizza edifici esistenti del borgo…
 cover: /images/covers/idea-077.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: tempo pieno
   reddito: principale
   rischio: medio - elevato
+featured: false
 ---
 
 ## La storia

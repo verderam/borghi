@@ -1,10 +1,11 @@
 ---
-title: Agrigelateria
+title: 350 Agrigelateria
 slug: 037-agrigelateria
 number: 37
 source_code: '350'
 categorie:
-- food
+  - agricoltura
+  - food
 weight: 37
 summary: Aprire un'agrigelateria in un borgo italiano può risultare un'idea vincente per valorizzare i prodotti locali e attirare turisti alla ricerca di esperienze autentiche. L'Italia vanta una lunga tradizione…
 cover: /images/covers/idea-037.jpg

@@ -1,10 +1,10 @@
 ---
-title: Coworking per nomadi digitali
+title: 780 Coworking per nomadi digitali
 slug: 079-coworking-per-nomadi-digitali
 number: 79
 source_code: '780'
 categorie:
-- ospitalita
+  - servizi
 weight: 79
 summary: Creare una work station per nomadi digitali in un borgo italiano rappresenta un’opportunità affascinante e strategica per valorizzare territori spesso dimenticati. I borghi italiani offrono un mix…
 cover: /images/covers/idea-079.jpg

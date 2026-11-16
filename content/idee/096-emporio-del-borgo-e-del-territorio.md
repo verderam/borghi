@@ -1,10 +1,10 @@
 ---
-title: Emporio del borgo e del territorio
+title: 950 Emporio del borgo e del territorio
 slug: 096-emporio-del-borgo-e-del-territorio
 number: 96
 source_code: '950'
 categorie:
-- commercio-e-pubblici-esercizi
+  - commercio-e-pubblici-esercizi
 weight: 96
 summary: La creazione di un emporio al servizio del borgo e del suo territorio rappresenta un'opportunità preziosa per valorizzare l'identità locale e rafforzare il tessuto sociale ed economico. Un emporio non è…
 cover: /images/covers/idea-096.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: tempo pieno
   reddito: principale
   rischio: contenuto - medio
+featured: false
 ---
 
 ## La storia

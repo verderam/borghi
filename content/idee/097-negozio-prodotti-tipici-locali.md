@@ -1,10 +1,10 @@
 ---
-title: Negozio prodotti tipici locali
+title: 960 Negozio prodotti tipici locali
 slug: 097-negozio-prodotti-tipici-locali
 number: 97
 source_code: '960'
 categorie:
-- commercio-e-pubblici-esercizi
+  - commercio-e-pubblici-esercizi
 weight: 97
 summary: Aprire un negozio di prodotti tipici locali in un borgo italiano rappresenta un'opportunità affascinante e strategica, sia dal punto di vista economico che culturale. I borghi italiani, spesso immersi in…
 cover: /images/covers/idea-097.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: tempo pieno
   reddito: principale
   rischio: contenuto - medio
+featured: false
 ---
 
 ## La storia

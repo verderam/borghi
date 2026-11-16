@@ -1,10 +1,10 @@
 ---
-title: Azienda agricola multifunzione
+title: 230 Azienda agricola multifunzione
 slug: 024-azienda-agricola-multifunzione
 number: 24
 source_code: '230'
 categorie:
-- istruzione-formazione-cultura
+  - imprese-multifunzione
 weight: 24
 summary: Un'impresa agricola multifunzione in un pittoresco borgo italiano incarna un modello che va ben oltre il mero profitto economico.
 cover: /images/covers/idea-024.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: tempo pieno
   reddito: principale
   rischio: contenuto - medio
+featured: false
 ---
 
 ## La storia

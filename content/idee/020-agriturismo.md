@@ -1,12 +1,12 @@
 ---
-title: Agriturismo
+title: 190 Agriturismo
 slug: 020-agriturismo
 number: 20
 source_code: '190'
 categorie:
   - agricoltura
   - ristorazione
-  - turismo
+  - ospitalita
 weight: 20
 summary: Aprire un agriturismo in un borgo italiano è un’idea affascinante che combina turismo, tradizione e sostenibilità. I piccoli borghi italiani vantano un patrimonio culturale e paesaggistico unico, che attira…
 cover: /images/covers/idea-020.jpg

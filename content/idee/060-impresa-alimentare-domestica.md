@@ -1,10 +1,10 @@
 ---
-title: Impresa alimentare domestica
+title: 570 Impresa alimentare domestica
 slug: 060-impresa-alimentare-domestica
 number: 60
 source_code: '570'
 categorie:
-- food
+  - food
 weight: 60
 summary: Avviare un’Impresa Alimentare Domestica (IAD) in un borgo italiano è un’opportunità affascinante che combina tradizione, autenticità e imprenditorialità. In un contesto dove la valorizzazione dei prodotti…
 cover: /images/covers/idea-060.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time
   reddito: integrativo
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

@@ -1,10 +1,10 @@
 ---
-title: Ristorante in un castello - in un palazzo storico
+title: 530 Ristorante in un castello - in un palazzo storico
 slug: 056-ristorante-in-un-castello-in-un-palazzo-storico
 number: 56
 source_code: '530'
 categorie:
-- food
+  - ristorazione
 weight: 56
 summary: Creare un ristorante all’interno di un castello o di un palazzo storico è un’idea che fonde eleganza, storia e un’esperienza culinaria unica. Il fascino architettonico, con le sue mura antiche, torri e…
 cover: /images/covers/idea-056.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: tempo pieno
   reddito: principale
   rischio: medio - elevato
+featured: false
 ---
 
 ## La storia

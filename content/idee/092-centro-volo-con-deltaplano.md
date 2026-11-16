@@ -1,10 +1,10 @@
 ---
-title: Centro volo con deltaplano
+title: 910 Centro volo con deltaplano
 slug: 092-centro-volo-con-deltaplano
 number: 92
 source_code: '910'
 categorie:
-- sport-salute-benessere
+  - sport-salute-benessere
 weight: 92
 summary: Avviare un centro volo con deltaplani è un'opportunità imprenditoriale emozionante, che combina adrenalina, natura e turismo. Il deltaplano è uno sport che affascina un pubblico variegato, dagli…
 cover: /images/covers/idea-092.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time
   reddito: integrativo
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

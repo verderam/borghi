@@ -1,10 +1,10 @@
 ---
-title: Manutenzione del verde
+title: 670 Manutenzione del verde
 slug: 070-manutenzione-del-verde
 number: 70
 source_code: '670'
 categorie:
-- artigianato
+  - servizi
 weight: 70
 summary: Avviare un'attività di manutenzione del verde in un borgo italiano rappresenta un'opportunità imprenditoriale affascinante e remunerativa. I piccoli centri sono, in genere, immersi in paesaggi naturali e…
 cover: /images/covers/idea-070.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: tempo pieno
   reddito: principale
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

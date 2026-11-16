@@ -1,10 +1,10 @@
 ---
-title: E-commerce dei prodotti del territorio
+title: 990 E-commerce dei prodotti del territorio
 slug: 100-e-commerce-dei-prodotti-del-territorio
 number: 100
 source_code: '990'
 categorie:
-- commercio-e-pubblici-esercizi
+  - commercio-e-pubblici-esercizi
 weight: 100
 summary: Un’attività di e-commerce dedicata ai prodotti locali in un borgo italiano rappresenta una straordinaria opportunità di valorizzazione territoriale e imprenditoriale. I borghi, custodi di tradizioni,…
 cover: /images/covers/idea-100.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time - tempo pieno
   reddito: integrativo - principale
   rischio: contenuto - medio
+featured: false
 ---
 
 ## La storia

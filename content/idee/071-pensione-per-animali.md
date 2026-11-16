@@ -1,10 +1,10 @@
 ---
-title: Pensione per animali
+title: 680 Pensione per animali
 slug: 071-pensione-per-animali
 number: 71
 source_code: '680'
 categorie:
-- artigianato
+  - servizi
 weight: 71
 summary: Aprire una pensione per animali in un borgo italiano è un'idea imprenditoriale con grande potenziale. Sempre di più le persone che possiedono animali domestici e che quando devono viaggiare o affrontare…
 cover: /images/covers/idea-071.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time – tempo pieno
   reddito: integrativo - principale
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

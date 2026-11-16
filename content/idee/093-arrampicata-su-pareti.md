@@ -1,10 +1,10 @@
 ---
-title: Arrampicata su pareti
+title: 920 Arrampicata su pareti
 slug: 093-arrampicata-su-pareti
 number: 93
 source_code: '920'
 categorie:
-- sport-salute-benessere
+  - sport-salute-benessere
 weight: 93
 summary: L'avvio di un centro di arrampicata su pareti rappresenta una straordinaria opportunità imprenditoriale che combina sport, divertimento e aggregazione sociale. L'arrampicata è in crescita come disciplina…
 cover: /images/covers/idea-093.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time – tempo pieno
   reddito: integrativo - principale
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

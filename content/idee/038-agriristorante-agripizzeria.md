@@ -4,7 +4,8 @@ slug: 038-agriristorante-agripizzeria
 number: 38
 source_code: '360'
 categorie:
-- food
+  - agricoltura
+  - ristorazione
 weight: 38
 summary: Aprire un agriristorante o un'agripizzeria in un borgo italiano è una scelta imprenditoriale che unisce la tradizione con un'attrattiva moderna e sostenibile. La forza principale di un'attività del genere…
 cover: /images/covers/idea-038.jpg
@@ -16,6 +17,7 @@ identikit:
   impegno: tempo pieno
   reddito: principale
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

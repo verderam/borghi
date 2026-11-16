@@ -1,10 +1,10 @@
 ---
-title: Coltivazione piante in adozione
+title: 150 Coltivazione piante in adozione
 slug: 016-coltivazione-piante-in-adozione
 number: 16
 source_code: '150'
 categorie:
-- agricoltura
+  - agricoltura
 weight: 16
 summary: Avviare una coltivazione di piante in adozione in un borgo italiano è un'iniziativa originale che può unire agricoltura, sostenibilità e coinvolgimento comunitario. L'idea consiste nel permettere ai…
 cover: /images/covers/idea-016.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time – tempo pieno
   reddito: integrativo - principale
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

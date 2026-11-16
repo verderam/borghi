@@ -1,10 +1,11 @@
 ---
-title: Cheese bar
+title: 500 Cheese bar
 slug: 053-cheese-bar
 number: 53
 source_code: '500'
 categorie:
-- food
+  - ristorazione
+  - food
 weight: 53
 summary: Aprire un cheese bar in un borgo italiano significa valorizzare la straordinaria tradizione casearia del paese, trasformando un prodotto iconico in un’esperienza gastronomica unica.
 cover: /images/covers/idea-053.jpg
@@ -16,6 +17,7 @@ identikit:
   impegno: part time – tempo pieno
   reddito: integrativo - principale
   rischio: contenuto - medio
+featured: false
 ---
 
 ## La storia

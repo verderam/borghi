@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+<title id="title">Turismo</title><desc id="desc">Copertina editoriale originale con il simbolo Turismo.</desc>
+<!-- Original cover for Borghi Start Up. Icon: Lucide, ISC License. -->
+<rect width="1200" height="800" fill="#f5f0fc"/>
+<path d="M1200 800V380L740 800z" fill="#6219ff" opacity=".06"/>
+<g fill="none" stroke="#2b2b2b" stroke-width="2" opacity=".12"><path d="M-60 474 C180 369,360 574,610 469 S980 394,1270 504"/><path d="M-60 517 C180 412,360 617,610 512 S980 437,1270 547"/><path d="M-60 560 C180 455,360 660,610 555 S980 480,1270 590"/><path d="M-60 603 C180 498,360 703,610 598 S980 523,1270 633"/><path d="M-60 646 C180 541,360 746,610 641 S980 566,1270 676"/><path d="M-60 689 C180 584,360 789,610 684 S980 609,1270 719"/></g>
+
+<text x="72" y="100" fill="#2b2b2b" font-family="Noto Sans, sans-serif" font-size="19" font-weight="700" letter-spacing="3">TURISMO</text>
+<g transform="translate(805 198) rotate(5) scale(10)" fill="none" stroke="#2b2b2b" stroke-width="1.05" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></g>
+<rect x="28" y="28" width="1144" height="744" fill="none" stroke="#2b2b2b" opacity=".2"/>
+
+</svg>

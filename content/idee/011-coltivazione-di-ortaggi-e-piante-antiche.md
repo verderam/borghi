@@ -4,7 +4,7 @@ slug: 011-coltivazione-di-ortaggi-e-piante-antiche
 number: 11
 source_code: '100'
 categorie:
-- coltivazioni-e-territorio
+- agricoltura
 weight: 11
 summary: L'introduzione di una nuova coltivazione di ortaggi antichi in un borgo italiano possiede un'attrattività intrinseca e molteplice, capace di generare un impatto positivo ben oltre il solo ambito agricolo.…
 cover: /images/covers/idea-011.jpg

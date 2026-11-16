@@ -4,7 +4,7 @@ slug: 081-area-sosta-camper
 number: 81
 source_code: '800'
 categorie:
-- ospitalita-e-turismo
+- ospitalita
 weight: 81
 summary: Creare un'area sosta camper in un borgo italiano può essere un'idea vincente per valorizzare il territorio e attrarre un nuovo segmento di turismo. I viaggiatori in camper cercano luoghi autentici, immersi…
 cover: /images/covers/idea-081.jpg

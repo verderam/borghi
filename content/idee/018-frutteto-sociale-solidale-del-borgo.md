@@ -4,7 +4,7 @@ slug: 018-frutteto-sociale-solidale-del-borgo
 number: 18
 source_code: '170'
 categorie:
-- coltivazioni-e-territorio
+- agricoltura
 weight: 18
 summary: Un frutteto sociale in un borgo italiano rappresenta un’iniziativa preziosa per promuovere inclusione, sostenibilità e partecipazione comunitaria. Creare uno spazio dedicato alla coltivazione condivisa…
 cover: /images/covers/idea-018.jpg

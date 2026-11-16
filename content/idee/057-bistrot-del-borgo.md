@@ -4,7 +4,7 @@ slug: 057-bistrot-del-borgo
 number: 57
 source_code: '540'
 categorie:
-- cibo-e-bevande
+- food
 weight: 57
 summary: Aprire un bistrot in un borgo italiano ha un'attrattiva intrinseca, che va ben oltre il semplice esercizio commerciale. Innanzitutto, si inserisce in un contesto storico e culturale unico, offrendo ai…
 cover: /images/covers/idea-057.jpg

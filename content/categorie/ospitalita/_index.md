@@ -1,7 +1,7 @@
 ---
-title: Ospitalità e turismo
-slug: ospitalita-e-turismo
+title: Ospitalità
+slug: ospitalita
 description: Accoglienza diffusa, soste nella natura e nuove forme di turismo per vivere il borgo e il suo paesaggio.
-cover: /images/covers/categoria-ospitalita-e-turismo.svg
+cover: /images/covers/categoria-ospitalita.svg
 icon: bed-double
 ---

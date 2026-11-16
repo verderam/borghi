@@ -4,7 +4,7 @@ slug: 013-coltivazione-di-microverdure-e-fiori-edibili
 number: 13
 source_code: '120'
 categorie:
-- coltivazioni-e-territorio
+- agricoltura
 weight: 13
 summary: Il fascino della creazione di una nuova attività di coltivazione di microverdure e fiori edibili risiede in una combinazione di fattori che la rendono particolarmente attraente nel panorama agricolo e…
 cover: /images/covers/idea-013.jpg

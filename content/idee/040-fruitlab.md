@@ -4,7 +4,7 @@ slug: 040-fruitlab
 number: 40
 source_code: '380'
 categorie:
-- cibo-e-bevande
+- food
 weight: 40
 summary: La creazione di un fruitlab in un borgo italiano può rappresentare un'opportunità preziosa per valorizzare le risorse agricole locali e promuovere un'economia sostenibile. I piccoli borghi spesso vantano…
 cover: /images/covers/idea-040.jpg

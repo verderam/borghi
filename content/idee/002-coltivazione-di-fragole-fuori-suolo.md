@@ -4,7 +4,7 @@ slug: 002-coltivazione-di-fragole-fuori-suolo
 number: 2
 source_code: '015'
 categorie:
-- coltivazioni-e-territorio
+- agricoltura
 weight: 2
 summary: Una coltivazione di fragole fuori suolo può diventare un elemento di forte attrattività per un borgo italiano, unendo innovazione agricola e valorizzazione del territorio. Questo tipo di produzione, pulita…
 cover: /images/covers/idea-002.jpg

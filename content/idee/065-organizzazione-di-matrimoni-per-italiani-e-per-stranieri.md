@@ -4,7 +4,7 @@ slug: 065-organizzazione-di-matrimoni-per-italiani-e-per-stranieri
 number: 65
 source_code: '620'
 categorie:
-- servizi-e-artigianato
+- artigianato
 weight: 65
 summary: Avviare un’attività di organizzazione di matrimoni in un borgo italiano è un’idea affascinante e altamente attrattiva, per il mercato sia nazionale che internazionale. L’Italia è da sempre una delle…
 cover: /images/covers/idea-065.jpg

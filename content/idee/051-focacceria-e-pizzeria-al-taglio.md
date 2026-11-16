@@ -4,7 +4,7 @@ slug: 051-focacceria-e-pizzeria-al-taglio
 number: 51
 source_code: '490'
 categorie:
-- cibo-e-bevande
+- food
 weight: 51
 summary: Aprire una focacceria e pizzeria al taglio in un borgo italiano significa celebrare la tradizione gastronomica locale e rispondere alla crescente domanda di cibo autentico e di qualità. I borghi italiani,…
 cover: /images/covers/idea-051.jpg

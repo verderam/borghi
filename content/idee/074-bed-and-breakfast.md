@@ -4,7 +4,7 @@ slug: 074-bed-and-breakfast
 number: 74
 source_code: '710'
 categorie:
-- ospitalita-e-turismo
+- ospitalita
 weight: 74
 summary: Aprire un nuovo Bed and Breakfast in un borgo italiano è un'opportunità affascinante e ricca di potenziale. I borghi italiani sono scrigni di storia, cultura e tradizioni, spesso immersi in paesaggi…
 cover: /images/covers/idea-074.jpg

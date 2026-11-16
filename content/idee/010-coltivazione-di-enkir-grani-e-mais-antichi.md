@@ -4,7 +4,7 @@ slug: 010-coltivazione-di-enkir-grani-e-mais-antichi
 number: 10
 source_code: 090
 categorie:
-- coltivazioni-e-territorio
+- agricoltura
 weight: 10
 summary: La coltivazione di Enkir, grani e mais antichi sta vivendo un vero e proprio rinascimento, attirando sempre più l'interesse di agricoltori e consumatori. Questi cereali, rimasti inalterati per millenni,…
 cover: /images/covers/idea-010.jpg

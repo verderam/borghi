@@ -4,7 +4,7 @@ slug: 094-noleggio-di-biciclette
 number: 94
 source_code: '930'
 categorie:
-- sport-e-tempo-libero
+- sport-salute-benessere
 weight: 94
 summary: Avviare un’attività di noleggio biciclette in un borgo italiano può rivelarsi un’idea imprenditoriale affascinante e sostenibile, soprattutto in un contesto dove il turismo lento e l’attenzione all’ambiente…
 cover: /images/covers/idea-094.jpg

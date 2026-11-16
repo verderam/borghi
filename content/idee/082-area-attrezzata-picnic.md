@@ -4,7 +4,7 @@ slug: 082-area-attrezzata-picnic
 number: 82
 source_code: '810'
 categorie:
-- ospitalita-e-turismo
+- ospitalita
 weight: 82
 summary: La creazione di un'area attrezzata in un borgo italiano è una scelta strategica che unisce il potenziale turistico con la valorizzazione del patrimonio locale. Molti borghi, ricchi di storia e fascino,…
 cover: /images/covers/idea-082.jpg

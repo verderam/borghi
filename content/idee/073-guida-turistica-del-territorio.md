@@ -4,7 +4,7 @@ slug: 073-guida-turistica-del-territorio
 number: 73
 source_code: '700'
 categorie:
-- ospitalita-e-turismo
+- ospitalita
 weight: 73
 summary: L’attività di guida turistica in un borgo rappresenta una professione affascinante in grado di coniugare passione per la cultura, amore per il territorio e capacità comunicative. I borghi italiani, con le…
 cover: /images/covers/idea-073.jpg

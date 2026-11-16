@@ -4,7 +4,7 @@ slug: 042-minicaseificio
 number: 42
 source_code: '400'
 categorie:
-- cibo-e-bevande
+- food
 weight: 42
 summary: Aprire un minicaseificio in un borgo italiano è un’idea che unisce tradizione, qualità e sviluppo locale. I borghi offrono un contesto ideale per la produzione di formaggi artigianali, valorizzando razze…
 cover: /images/covers/idea-042.jpg

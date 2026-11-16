@@ -4,7 +4,7 @@ slug: 021-fattoria-didattica
 number: 21
 source_code: '200'
 categorie:
-- ruralita-e-comunita
+- istruzione-formazione-cultura
 weight: 21
 summary: Aprire una fattoria didattica in un borgo italiano è un’opportunità straordinaria per unire educazione, sostenibilità e valorizzazione del territorio. I borghi italiani, con il loro fascino autentico e il…
 cover: /images/covers/idea-021.jpg

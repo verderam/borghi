@@ -4,7 +4,7 @@ slug: 029-allevamento-di-pecore
 number: 29
 source_code: '280'
 categorie:
-- allevamenti
+- allevamento
 weight: 29
 summary: Avviare un allevamento di pecore in un borgo italiano può rappresentare una scelta affascinante e strategica, sia dal punto di vista economico che culturale. In un contesto rurale, spesso caratterizzato da…
 cover: /images/covers/idea-029.jpg

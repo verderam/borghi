@@ -4,7 +4,7 @@ slug: 032-allevamento-di-alpaca
 number: 32
 source_code: '310'
 categorie:
-- allevamenti
+- allevamento
 weight: 32
 summary: Gli allevamenti di alpaca rappresentano un'opportunità unica per i borghi italiani, combinando il fascino della tradizione rurale con un'attività insolita e molto attraente. La presenza di questi animali,…
 cover: /images/covers/idea-032.jpg

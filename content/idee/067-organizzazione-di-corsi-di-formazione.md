@@ -4,7 +4,7 @@ slug: 067-organizzazione-di-corsi-di-formazione
 number: 67
 source_code: '640'
 categorie:
-- servizi-e-artigianato
+- artigianato
 weight: 67
 summary: Organizzare corsi di formazione in un borgo italiano offre un’opportunità unica per apprendere in un ambiente ricco di storia, cultura e bellezza naturale. Questi luoghi offrono una dimensione più raccolta…
 cover: /images/covers/idea-067.jpg

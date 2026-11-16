@@ -4,7 +4,7 @@ slug: 046-produzione-di-sidro
 number: 46
 source_code: '440'
 categorie:
-- cibo-e-bevande
+- food
 weight: 46
 summary: Avviare un’attività di produzione di sidro in un borgo italiano può essere un’opportunità affascinante e redditizia. I piccoli borghi spesso vantano tradizioni agricole profonde e varietà di mele autoctone,…
 cover: /images/covers/idea-046.jpg

@@ -4,7 +4,7 @@ slug: 044-produzione-di-vini-naturali
 number: 44
 source_code: '420'
 categorie:
-- cibo-e-bevande
+- food
 weight: 44
 summary: L'attrattività della produzione di vini naturali in un borgo italiano risiede nella sua profonda connessione con il territorio. Si tratta non solo di produrre vino, ma di valorizzare un'eredità storica,…
 cover: /images/covers/idea-044.jpg

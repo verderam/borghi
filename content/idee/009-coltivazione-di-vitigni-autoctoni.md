@@ -4,7 +4,7 @@ slug: 009-coltivazione-di-vitigni-autoctoni
 number: 9
 source_code: 080
 categorie:
-- coltivazioni-e-territorio
+- agricoltura
 weight: 9
 summary: La coltivazione e il rilancio di un vitigno autoctono rappresentano una straordinaria opportunità per valorizzare il territorio, preservare la biodiversità e riscoprire tradizioni enologiche spesso…
 cover: /images/covers/idea-009.jpg

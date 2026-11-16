@@ -1,7 +1,7 @@
 ---
-title: Sport e tempo libero
-slug: sport-e-tempo-libero
-description: Sport outdoor, parchi, noleggi e attività ricreative per trasformare il territorio in un luogo da esplorare.
-cover: /images/covers/categoria-sport-e-tempo-libero.svg
+title: Sport, salute, benessere
+slug: sport-salute-benessere
+description: Sport outdoor, salute, benessere e attività ricreative per trasformare il territorio in un luogo da esplorare.
+cover: /images/covers/categoria-sport-salute-benessere.svg
 icon: bike
 ---

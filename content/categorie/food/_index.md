@@ -1,7 +1,7 @@
 ---
-title: Cibo e bevande
-slug: cibo-e-bevande
+title: Food
+slug: food
 description: 'Produzione artigianale, trasformazione e ristorazione: filiere corte e sapori che raccontano il borgo.'
-cover: /images/covers/categoria-cibo-e-bevande.svg
+cover: /images/covers/categoria-food.svg
 icon: utensils
 ---

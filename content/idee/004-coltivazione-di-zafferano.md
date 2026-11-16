@@ -4,7 +4,7 @@ slug: 004-coltivazione-di-zafferano
 number: 4
 source_code: '030'
 categorie:
-- coltivazioni-e-territorio
+- agricoltura
 weight: 4
 summary: La coltivazione dello zafferano si sta affermando come una fonte di reddito sempre più interessante per molti borghi italiani, offrendo un'alternativa sostenibile all'agricoltura tradizionale. I territori…
 cover: /images/covers/idea-004.jpg

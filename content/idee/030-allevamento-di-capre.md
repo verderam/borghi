@@ -4,7 +4,7 @@ slug: 030-allevamento-di-capre
 number: 30
 source_code: '290'
 categorie:
-- allevamenti
+- allevamento
 weight: 30
 summary: In molti borghi italiani, l'avvio di un allevamento di capre può rappresentare un'opportunità affascinante e sostenibile. Questa attività, che richiede dedizione continua, si inserisce perfettamente nel…
 cover: /images/covers/idea-030.jpg

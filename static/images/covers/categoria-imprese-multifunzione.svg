@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+<title id="title">Imprese multifunzione</title><desc id="desc">Copertina editoriale originale con il simbolo Imprese multifunzione.</desc>
+<!-- Original cover for Borghi Start Up. Icon: Lucide, ISC License. -->
+<rect width="1200" height="800" fill="#eef4ff"/>
+<circle cx="1090" cy="660" r="250" fill="#1f6fff" opacity=".06"/>
+<g fill="none" stroke="#2b2b2b" stroke-width="2" opacity=".12"><path d="M-60 486 C180 381,360 586,610 481 S980 406,1270 516"/><path d="M-60 529 C180 424,360 629,610 524 S980 449,1270 559"/><path d="M-60 572 C180 467,360 672,610 567 S980 492,1270 602"/><path d="M-60 615 C180 510,360 715,610 610 S980 535,1270 645"/><path d="M-60 658 C180 553,360 758,610 653 S980 578,1270 688"/><path d="M-60 701 C180 596,360 801,610 696 S980 621,1270 731"/></g>
+
+<text x="72" y="100" fill="#2b2b2b" font-family="Noto Sans, sans-serif" font-size="19" font-weight="700" letter-spacing="3">IMPRESE MULTIFUNZIONE</text>
+<g transform="translate(810 200) rotate(-5) scale(10)" fill="none" stroke="#2b2b2b" stroke-width="1.05" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></g>
+<rect x="28" y="28" width="1144" height="744" fill="none" stroke="#2b2b2b" opacity=".2"/>
+
+</svg>

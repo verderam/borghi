@@ -4,7 +4,7 @@ slug: 098-borgo-temporary-shop
 number: 98
 source_code: '970'
 categorie:
-- commercio-locale
+- commercio-e-pubblici-esercizi
 weight: 98
 summary: L'uso degli spazi di un borgo italiano come temporary shop è una soluzione innovativa che coniuga tradizione e modernità, offrendo opportunità commerciali dinamiche e stimolanti. I borghi, con il loro…
 cover: /images/covers/idea-098.jpg

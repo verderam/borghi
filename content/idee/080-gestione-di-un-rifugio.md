@@ -4,7 +4,7 @@ slug: 080-gestione-di-un-rifugio
 number: 80
 source_code: '790'
 categorie:
-- ospitalita-e-turismo
+- ospitalita
 weight: 80
 summary: 'Gestire un rifugio di montagna è molto più di un semplice lavoro: è una scelta di vita che unisce passione, natura e relazioni umane. L’attività si svolge in un contesto straordinario: immersi tra vette,…'
 cover: /images/covers/idea-080.jpg

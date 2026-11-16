@@ -4,7 +4,7 @@ slug: 014-coltivazione-di-piante-esotiche-e-tropicali
 number: 14
 source_code: '130'
 categorie:
-- coltivazioni-e-territorio
+- agricoltura
 weight: 14
 summary: Avviare una coltivazione di piante esotiche e tropicali in un borgo italiano è un’idea innovativa che può avere un grande fascino e molteplici vantaggi. Grazie al cambiamento climatico e all’adattabilità di…
 cover: /images/covers/idea-014.jpg

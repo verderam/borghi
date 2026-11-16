@@ -4,7 +4,7 @@ slug: 043-norcineria
 number: 43
 source_code: '410'
 categorie:
-- cibo-e-bevande
+- food
 weight: 43
 summary: Aprire una piccola norcineria in un borgo italiano rappresenta un'opportunità affascinante e ricca di potenziale. I borghi, con la loro autenticità e tradizione, offrono un contesto ideale per valorizzare…
 cover: /images/covers/idea-043.jpg

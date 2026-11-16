@@ -4,7 +4,7 @@ slug: 026-allevamento-di-maiali-allo-stato-brado
 number: 26
 source_code: '250'
 categorie:
-- allevamenti
+- allevamento
 weight: 26
 summary: Avviare un allevamento di maiali allo stato brado in un borgo italiano può rappresentare un’opportunità imprenditoriale sostenibile e di grande valore gastronomico. La carne suina di alta qualità è sempre…
 cover: /images/covers/idea-026.jpg

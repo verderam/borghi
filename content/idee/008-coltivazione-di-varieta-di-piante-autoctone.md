@@ -4,7 +4,7 @@ slug: 008-coltivazione-di-varieta-di-piante-autoctone
 number: 8
 source_code: '070'
 categorie:
-- coltivazioni-e-territorio
+- agricoltura
 weight: 8
 summary: Avviare una coltivazione di piante autoctone in un borgo italiano è un'opportunità preziosa per valorizzare il territorio e promuovere la sostenibilità ambientale. Le specie locali sono perfettamente…
 cover: /images/covers/idea-008.jpg

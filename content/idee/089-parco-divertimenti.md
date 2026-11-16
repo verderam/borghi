@@ -4,7 +4,7 @@ slug: 089-parco-divertimenti
 number: 89
 source_code: '880'
 categorie:
-- sport-e-tempo-libero
+- sport-salute-benessere
 weight: 89
 summary: L'avvio di un parco divertimenti è un'idea imprenditoriale che cattura l'immaginazione e promette interessanti ritorni economici e sociali. I parchi divertimento hanno un'attrattiva universale, capace di…
 cover: /images/covers/idea-089.jpg

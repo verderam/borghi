@@ -4,7 +4,7 @@ slug: 031-allevamento-di-cani
 number: 31
 source_code: '300'
 categorie:
-- allevamenti
+- allevamento
 weight: 31
 summary: Un allevamento di cani in un borgo italiano può rappresentare, oltre che una scelta economicamente interessante, anche un'opportunità straordinaria per coniugare buona redditività e amore per gli animali.…
 cover: /images/covers/idea-031.jpg

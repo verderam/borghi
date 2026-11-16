@@ -4,7 +4,7 @@ slug: 075-hotel-in-un-castello
 number: 75
 source_code: '740'
 categorie:
-- ospitalita-e-turismo
+- ospitalita
 weight: 75
 summary: L'idea di trasformare un castello in un hotel in un borgo italiano è affascinante e ricca di potenziale. Si tratta di un'impresa che unisce storia, architettura e lusso, creando un'esperienza di soggiorno…
 cover: /images/covers/idea-075.jpg

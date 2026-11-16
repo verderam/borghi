@@ -4,7 +4,7 @@ slug: 061-laboratorio-di-cosmetici-naturali
 number: 61
 source_code: '580'
 categorie:
-- servizi-e-artigianato
+- artigianato
 weight: 61
 summary: Aprire un laboratorio di cosmetici naturali in un borgo italiano può risultare un'idea affascinante e strategica. I borghi italiani sono spesso caratterizzati da una bellezza autentica e da una connessione…
 cover: /images/covers/idea-061.jpg

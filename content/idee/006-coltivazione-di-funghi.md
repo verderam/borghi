@@ -4,7 +4,7 @@ slug: 006-coltivazione-di-funghi
 number: 6
 source_code: '050'
 categorie:
-- coltivazioni-e-territorio
+- agricoltura
 weight: 6
 summary: La coltivazione di funghi in un borgo italiano rappresenta un’opportunità affascinante e sostenibile, capace di coniugare tradizione agricola, innovazione e valorizzazione del territorio. I funghi, in…
 cover: /images/covers/idea-006.jpg

@@ -4,7 +4,7 @@ slug: 005-coltivazione-di-lavanda
 number: 5
 source_code: '040'
 categorie:
-- coltivazioni-e-territorio
+- agricoltura
 weight: 5
 summary: Avviare una coltivazione di lavanda in un borgo italiano può essere un'opportunità straordinaria, sia dal punto di vista economico che turistico. La lavanda, con il suo fascino visivo e olfattivo, può…
 cover: /images/covers/idea-005.jpg

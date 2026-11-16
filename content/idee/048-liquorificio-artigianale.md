@@ -4,7 +4,7 @@ slug: 048-liquorificio-artigianale
 number: 48
 source_code: '460'
 categorie:
-- cibo-e-bevande
+- food
 weight: 48
 summary: Aprire un liquorificio artigianale in un borgo italiano rappresenta un'opportunità unica per valorizzare le tradizioni locali e creare prodotti autentici e distintivi. I piccoli borghi sono spesso…
 cover: /images/covers/idea-048.jpg

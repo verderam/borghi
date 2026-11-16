@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+<title id="title">Ristorazione</title><desc id="desc">Copertina editoriale originale con il simbolo Ristorazione.</desc>
+<!-- Original cover for Borghi Start Up. Icon: Lucide, ISC License. -->
+<rect width="1200" height="800" fill="#fdf0ea"/>
+<path d="M0 0h420L0 520z" fill="#e2590b" opacity=".05"/>
+<g fill="none" stroke="#2b2b2b" stroke-width="2" opacity=".12"><path d="M-60 478 C180 373,360 578,610 473 S980 398,1270 508"/><path d="M-60 521 C180 416,360 621,610 516 S980 441,1270 551"/><path d="M-60 564 C180 459,360 664,610 559 S980 484,1270 594"/><path d="M-60 607 C180 502,360 707,610 602 S980 527,1270 637"/><path d="M-60 650 C180 545,360 750,610 645 S980 570,1270 680"/><path d="M-60 693 C180 588,360 793,610 688 S980 613,1270 723"/></g>
+
+<text x="72" y="100" fill="#2b2b2b" font-family="Noto Sans, sans-serif" font-size="19" font-weight="700" letter-spacing="3">RISTORAZIONE</text>
+<g transform="translate(805 195) rotate(4) scale(10)" fill="none" stroke="#2b2b2b" stroke-width="1.05" stroke-linecap="round" stroke-linejoin="round"><path d="M6 13.87A4 4 0 0 1 7.41 6a5.11 5.11 0 0 1 1.05-1.54 5 5 0 0 1 7.08 0A5.11 5.11 0 0 1 16.59 6 4 4 0 0 1 18 13.87V21H6Z"/><line x1="6" x2="18" y1="17" y2="17"/></g>
+<rect x="28" y="28" width="1144" height="744" fill="none" stroke="#2b2b2b" opacity=".2"/>
+
+</svg>

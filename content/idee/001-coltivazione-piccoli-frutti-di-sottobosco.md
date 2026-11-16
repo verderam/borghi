@@ -4,7 +4,7 @@ slug: 001-coltivazione-piccoli-frutti-di-sottobosco
 number: 1
 source_code: '010'
 categorie:
-  - coltivazioni-e-territorio
+  - agricoltura
 weight: 1
 summary: L’attività consiste nella coltivazione di lamponi, more, ribes, mirtilli, uva spina e fragole principalmente per il mercato fresco ma anche per la produzione di conserve, sciroppi, confetture e gelatine e…
 cover: /images/piccolifrutti.jpg

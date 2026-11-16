@@ -4,7 +4,7 @@ slug: 052-paninoteca
 number: 52
 source_code: '495'
 categorie:
-- cibo-e-bevande
+- food
 weight: 52
 summary: La creazione di una paninoteca in un piccolo borgo italiano rappresenta un’opportunità imprenditoriale particolarmente attrattiva. I borghi sono luoghi ricchi di identità, tradizioni e autenticità, elementi…
 cover: /images/covers/idea-052.jpg

@@ -4,7 +4,7 @@ slug: 055-ristorante-km-0
 number: 55
 source_code: '520'
 categorie:
-- cibo-e-bevande
+- food
 weight: 55
 summary: Aprire un ristorante a km0 in un borgo italiano significa abbracciare l’autenticità e la sostenibilità, creando un luogo in cui il cibo racconta il territorio. I borghi italiani, con le loro radici storiche…
 cover: /images/covers/idea-055.jpg

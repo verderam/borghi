@@ -1,10 +1,10 @@
 ---
-title: Produzione di kombucha e di fermentati
+title: 450 Produzione di kombucha e di fermentati
 slug: 047-produzione-di-kombucha-e-di-fermentati
 number: 47
 source_code: '450'
 categorie:
-- food
+  - food
 weight: 47
 summary: La produzione artigianale di kombucha e altri fermentati in un borgo italiano rappresenta un'opportunità di grande interesse, in grado di combinare tradizione, sostenibilità e innovazione. In un contesto…
 cover: /images/covers/idea-047.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time - tempo pieno
   reddito: integrativo - principale
   rischio: medio - elevato
+featured: false
 ---
 
 ## La storia

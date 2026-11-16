@@ -4,7 +4,8 @@ slug: 022-agrinido-agriasilo
 number: 22
 source_code: '210'
 categorie:
-- istruzione-formazione-cultura
+  - agricoltura
+  - istruzione-formazione-cultura
 weight: 22
 summary: Aprire un agrinido-agriasilo in un borgo italiano è un’idea innovativa che combina educazione, natura e tradizioni locali. Significa proporre una struttura educativa rurale dove i bambini possono crescere a…
 cover: /images/covers/idea-022.jpg
@@ -16,6 +17,7 @@ identikit:
   impegno: tempo pieno
   reddito: principale
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

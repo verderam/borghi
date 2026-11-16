@@ -1,10 +1,10 @@
 ---
-title: Abbattimento e taglio di legna da ardere
+title: Abbattimento e taglio di legna da ardere!
 slug: 019-abbattimento-e-taglio-di-legna-da-ardere
 number: 19
 source_code: '180'
 categorie:
-- coltivazioni-e-territorio
+  - coltivazioni-e-territorio
 weight: 19
 summary: L’abbattimento e il taglio di legna da ardere in un borgo italiano possono rappresentare un’attività strategica e sostenibile, in grado di valorizzare le masse legnose inutilizzate e favorire l’economia…
 cover: /images/covers/idea-019.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time – tempo pieno
   reddito: integrativo - principale
   rischio: contenuto - medio
+featured: false
 ---
 
 ## La storia

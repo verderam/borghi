@@ -1,10 +1,10 @@
 ---
-title: Panetteria con micromulino
+title: 480 Panetteria con micromulino
 slug: 050-panetteria-con-micromulino
 number: 50
 source_code: '480'
 categorie:
-- food
+  - food
 weight: 50
 summary: L'apertura di un panificio con micro-mulino in un borgo italiano rappresenta un'opportunità eccezionale, sia dal punto di vista economico che culturale. In un'epoca in cui cresce l'interesse per il cibo…
 cover: /images/covers/idea-050.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: tempo pieno
   reddito: principale
   rischio: contenuto - medio
+featured: false
 ---
 
 ## La storia

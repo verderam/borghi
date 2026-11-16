@@ -1,10 +1,10 @@
 ---
-title: Camping con tende yurta
+title: 840 Camping con tende yurta
 slug: 085-camping-con-tende-yurta
 number: 85
 source_code: '840'
 categorie:
-- ospitalita
+  - ospitalita
 weight: 85
 summary: Creare un campeggio con tende yurta in un borgo italiano è un’idea innovativa che combina il fascino del turismo outdoor con l’autenticità delle tradizioni nomadi. Le yurte, originarie delle popolazioni…
 cover: /images/covers/idea-085.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time - tempo pieno
   reddito: integrativo - principale
   rischio: medio - elevato
+featured: false
 ---
 
 ## La storia

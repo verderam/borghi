@@ -1,10 +1,10 @@
 ---
-title: Allevamento di lumache
+title: 270 Allevamento di lumache
 slug: 028-allevamento-di-lumache
 number: 28
 source_code: '270'
 categorie:
-- allevamento
+  - allevamento
 weight: 28
 summary: Avviare un allevamento di lumache in un borgo italiano può rivelarsi una scelta imprenditoriale interessante e sostenibile. La richiesta di lumache, sia per il consumo alimentare che per la produzione di…
 cover: /images/covers/idea-028.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time tempo pieno
   reddito: integrativo - professionale
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

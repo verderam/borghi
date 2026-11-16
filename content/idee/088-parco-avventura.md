@@ -1,10 +1,10 @@
 ---
-title: Parco avventura
+title: 870 Parco avventura
 slug: 088-parco-avventura
 number: 88
 source_code: '870'
 categorie:
-- sport-salute-benessere
+  - sport-salute-benessere
 weight: 88
 summary: La creazione di un parco avventura in un borgo italiano rappresenta un’opportunità strategica per valorizzare il territorio, attrarre turismo sostenibile e rivitalizzare l’economia locale. I borghi, immersi…
 cover: /images/covers/idea-088.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time – tempo pieno
   reddito: integrativo - principale
   rischio: medio
+featured: false
 ---
 
 ## La storia

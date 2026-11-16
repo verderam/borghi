@@ -1,10 +1,10 @@
 ---
-title: Gestione di un rifugio
+title: 790 Gestione di un rifugio
 slug: 080-gestione-di-un-rifugio
 number: 80
 source_code: '790'
 categorie:
-- ospitalita
+  - ospitalita
 weight: 80
 summary: 'Gestire un rifugio di montagna è molto più di un semplice lavoro: è una scelta di vita che unisce passione, natura e relazioni umane. L’attività si svolge in un contesto straordinario: immersi tra vette,…'
 cover: /images/covers/idea-080.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: tempo pieno
   reddito: principale
   rischio: contenuto - medio
+featured: false
 ---
 
 ## La storia

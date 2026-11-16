@@ -1,10 +1,10 @@
 ---
-title: Panetteria con antico forno a legna
+title: 470 Panetteria con antico forno a legna
 slug: 049-panetteria-con-antico-forno-a-legna
 number: 49
 source_code: '470'
 categorie:
-- food
+  - food
 weight: 49
 summary: Aprire una panetteria con un antico forno a legna in un borgo italiano significa valorizzare tradizione, autenticità e qualità artigianale. I borghi sono spesso luoghi ricchi di storia e cultura e un forno…
 cover: /images/covers/idea-049.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: tempo pieno
   reddito: principale
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

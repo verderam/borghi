@@ -1,10 +1,11 @@
 ---
-title: Gestione case vacanze
+title: 750 Gestione case vacanze
 slug: 076-gestione-case-vacanze
 number: 76
 source_code: '750'
 categorie:
-- ospitalita
+  - ospitalita
+  - servizi
 weight: 76
 summary: Aprire un'attività di gestione di case vacanze in un borgo italiano è un'opportunità interessante per chi vuole operare nel settore turistico. I borghi italiani, ricchi di storia e fascino, attraggono…
 cover: /images/covers/idea-076.jpg
@@ -16,6 +17,7 @@ identikit:
   impegno: part time – tempo pieno
   reddito: integrativo - principale
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

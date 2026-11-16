@@ -1,10 +1,11 @@
 ---
-title: Attivita' artigianale esperienziale
+title: 600 Attivita' artigianale esperienziale
 slug: 063-attivita-artigianale-esperienziale
 number: 63
 source_code: '600'
 categorie:
-- artigianato
+  - artigianato
+  - turismo
 weight: 63
 summary: Aprire un'attività artigianale esperienziale in un borgo italiano è un'opportunità unica per coniugare tradizione, innovazione e turismo. I borghi italiani, con il loro fascino senza tempo e la forte…
 cover: /images/covers/idea-063.jpg
@@ -16,6 +17,7 @@ identikit:
   impegno: part time
   reddito: principale
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

@@ -12,7 +12,8 @@
   <div class="idea-article">
     <nav class="breadcrumbs" aria-label="Percorso"><a href="{{ "/idee/" | relURL }}">Le 100 idee</a><span aria-hidden="true">/</span><a href="{{ $cat.RelPermalink }}">{{ $cat.Title }}</a></nav>
     <header class="article-header"><p class="eyebrow">Borghi Start Up · {{ .Params.source_code }}</p><h1>{{ .Title }}</h1><p class="article-deck">{{ .Params.summary }}</p></header>
-    <aside class="identikit" aria-labelledby="identikit-title">
+    <div class="prose">{{ .Content }}</div>
+      <aside class="identikit" aria-labelledby="identikit-title">
       <div class="identikit-heading"><h2 id="identikit-title">Identikit dell’idea</h2><span>Valori indicativi</span></div>
       <dl>
         <div><dt>Investimento richiesto</dt><dd>{{ .Params.identikit.investimento | humanize }}</dd></div>
@@ -23,7 +24,6 @@
       </dl>
       <p>Da verificare in base a dimensione, mercato, tecnologia e obiettivi personali.</p>
     </aside>
-    <div class="prose">{{ .Content }}</div>
     <footer class="article-note"><p>Questa scheda è uno spunto progettuale, non un business plan. Prima di avviare l’attività, verifica fattibilità, norme, mercato e sostenibilità economica.</p></footer>
   </div>
 </article>

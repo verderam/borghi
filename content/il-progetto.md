@@ -1,14 +1,14 @@
 ---
-title: "Il progetto"
-description: "Origine, metodo e criteri di lettura della raccolta Borghi Start Up."
-cover: "/images/covers/progetto.svg"
+title: Il progetto
+description: Origine, metodo e criteri di lettura della raccolta Borghi Start Up.
+cover: /images/covers/progetto.svg
 ---
 
-## Un repertorio da adattare, non una classifica
+## Un repertorio da adattare, non una classifica!
 
-**Borghi Start Up** raccoglie 100 attività già realizzate o considerate duplicabili nei borghi italiani. L’edizione web trasforma la sezione dedicata del documento di Antonio Montefinale in un catalogo consultabile per settore, esigenza e caratteristiche dell’iniziativa.
+**Borghi Start Up** raccoglie **100 attività già realizzate** o considerate **duplicabili** nei **borghi italiani**. 
 
-Le schede non sono business plan e non sostituiscono la verifica economica, normativa e finanziaria. Sono punti di partenza: ogni idea va territorializzata, personalizzata e verificata prima di essere trasformata in impresa.
+Le schede non sono _business plan_ e non sostituiscono la verifica economica, normativa e finanziaria. Sono punti di partenza: ogni idea va territorializzata, personalizzata e verificata prima di essere trasformata in impresa.
 
 ## Come leggere una scheda
 

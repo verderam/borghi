@@ -1,10 +1,10 @@
 ---
-title: Allevamento di galline all'aperto o in un bosco
+title: 260 Allevamento di galline all'aperto o in un bosco
 slug: 027-allevamento-di-galline-all-aperto-o-in-un-bosco
 number: 27
 source_code: '260'
 categorie:
-- allevamento
+  - allevamento
 weight: 27
 summary: Avviare un allevamento di galline all’aperto o in un bosco in un borgo italiano può essere un’ottima opportunità imprenditoriale sostenibile e redditizia. L’allevamento all’aria aperta favorisce il…
 cover: /images/covers/idea-027.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time – tempo pieno
   reddito: integrativo - principale
   rischio: contenuto - medio
+featured: false
 ---
 
 ## La storia

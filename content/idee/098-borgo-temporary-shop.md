@@ -1,10 +1,10 @@
 ---
-title: Borgo temporary shop
+title: 970 Borgo temporary shop
 slug: 098-borgo-temporary-shop
 number: 98
 source_code: '970'
 categorie:
-- commercio-e-pubblici-esercizi
+  - commercio-e-pubblici-esercizi
 weight: 98
 summary: L'uso degli spazi di un borgo italiano come temporary shop è una soluzione innovativa che coniuga tradizione e modernità, offrendo opportunità commerciali dinamiche e stimolanti. I borghi, con il loro…
 cover: /images/covers/idea-098.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time
   reddito: integrativo
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

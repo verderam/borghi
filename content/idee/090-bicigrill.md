@@ -1,10 +1,11 @@
 ---
-title: BiciGrill
+title: 890 BiciGrill
 slug: 090-bicigrill
 number: 90
 source_code: '890'
 categorie:
-- sport-salute-benessere
+  - sport-salute-benessere
+  - turismo
 weight: 90
 summary: Aprire un bicigrill, un punto di ristoro dedicato ai ciclisti e agli appassionati di attività outdoor, può essere una scelta imprenditoriale davvero interessante. L'aumento della pratica del ciclismo, sia…
 cover: /images/covers/idea-090.jpg
@@ -16,6 +17,7 @@ identikit:
   impegno: part time
   reddito: integrativo - principale
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

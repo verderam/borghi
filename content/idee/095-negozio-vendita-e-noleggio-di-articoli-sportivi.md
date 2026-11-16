@@ -1,10 +1,11 @@
 ---
-title: Negozio vendita e noleggio di articoli sportivi
+title: 940 Negozio vendita e noleggio di articoli sportivi
 slug: 095-negozio-vendita-e-noleggio-di-articoli-sportivi
 number: 95
 source_code: '940'
 categorie:
-- sport-salute-benessere
+  - commercio-e-pubblici-esercizi
+  - sport-salute-benessere
 weight: 95
 summary: Avviare un’attività di vendita e noleggio di articoli sportivi in un borgo italiano può rivelarsi un’opportunità imprenditoriale affascinante e redditizia. I borghi, spesso immersi in contesti naturali…
 cover: /images/covers/idea-095.jpg
@@ -16,6 +17,7 @@ identikit:
   impegno: tempo pieno
   reddito: principale
   rischio: contenuto - medio
+featured: false
 ---
 
 ## La storia

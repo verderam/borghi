@@ -1,10 +1,10 @@
 ---
-title: Ostello della gioventu'
+title: 770 Ostello della gioventù
 slug: 078-ostello-della-gioventu
 number: 78
 source_code: '770'
 categorie:
-- ospitalita
+  - ospitalita
 weight: 78
 summary: Aprire un ostello della gioventù in un borgo italiano è un’idea stimolante e piena di potenziale. I borghi italiani, con il loro fascino storico e la loro autenticità, possono diventare mete perfette per i…
 cover: /images/covers/idea-078.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time - tempo pieno
   reddito: integrativo - principale
   rischio: medio - elevato
+featured: false
 ---
 
 ## La storia

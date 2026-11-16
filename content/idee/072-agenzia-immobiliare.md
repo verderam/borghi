@@ -4,7 +4,7 @@ slug: 072-agenzia-immobiliare
 number: 72
 source_code: '690'
 categorie:
-- artigianato
+  - servizi
 weight: 72
 summary: Aprire un’agenzia immobiliare in un piccolo borgo italiano è oggi una scelta strategica e affascinante, che unisce spirito imprenditoriale e amore per il territorio. I borghi, spesso trascurati dalle grandi…
 cover: /images/covers/idea-072.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time – tempo pieno
   reddito: integrativo - principale
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

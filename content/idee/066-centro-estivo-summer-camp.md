@@ -1,10 +1,11 @@
 ---
-title: Centro estivo – summer camp
+title: 630 Centro estivo – summer camp
 slug: 066-centro-estivo-summer-camp
 number: 66
 source_code: '630'
 categorie:
-- artigianato
+  - sport-salute-benessere
+  - istruzione-formazione-cultura
 weight: 66
 summary: Creare un centro estivo o un summer camp in un borgo italiano è un’idea affascinante e ricca di potenzialità. Questi luoghi offrono un ambiente tranquillo, sicuro e stimolante, lontano dal caos urbano, dove…
 cover: /images/covers/idea-066.jpg
@@ -16,6 +17,7 @@ identikit:
   impegno: part time
   reddito: integrativo
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

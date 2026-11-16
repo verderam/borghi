@@ -1,10 +1,10 @@
 ---
-title: Coltivazione di frutti dimenticati
+title: 012 Coltivazione di frutti dimenticati
 slug: 012-coltivazione-di-frutti-dimenticati
 number: 12
 source_code: '110'
 categorie:
-- agricoltura
+  - agricoltura
 weight: 12
 summary: Avviare una coltivazione di frutti dimenticati può rappresentare un'iniziativa affascinante e di grande valore per un borgo italiano. Questi frutti, quasi sempre trascurati dall’agricoltura moderna e dalla…
 cover: /images/covers/idea-012.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time
   reddito: integrativo
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

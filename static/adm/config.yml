@@ -1,0 +1,86 @@
+local_backend: true
+backend:
+  name: github
+  repo: verderam/borghi
+  branch: main
+
+media_folder: static/images
+public_folder: /images
+
+collections:
+  - name: idee
+    label: Idee
+    folder: content/idee
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Titolo, name: title, widget: string }
+      - { label: Slug, name: slug, widget: string }
+      - { label: Numero, name: number, widget: number }
+      - { label: Codice sorgente, name: source_code, widget: string, required: false }
+      - label: Categorie
+        name: categorie
+        widget: relation
+        collection: categorie
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
+        multiple: true
+      - { label: Peso, name: weight, widget: number, required: false }
+      - { label: Sommario, name: summary, widget: text, required: false }
+      - { label: Copertina, name: cover, widget: image, required: false }
+      - { label: Testo alternativo copertina, name: cover_alt, widget: string, required: false }
+      - { label: Icona, name: icon, widget: string, required: false }
+      - label: Identikit
+        name: identikit
+        widget: object
+        required: false
+        fields:
+          - { label: Investimento, name: investimento, widget: string, required: false }
+          - { label: Conoscenze, name: conoscenze, widget: string, required: false }
+          - { label: Impegno, name: impegno, widget: string, required: false }
+          - { label: Reddito, name: reddito, widget: string, required: false }
+          - { label: Rischio, name: rischio, widget: string, required: false }
+      - { label: In evidenza, name: featured, widget: boolean, default: false }
+      - { label: Corpo, name: body, widget: markdown }
+
+  - name: categorie
+    label: Categorie
+    folder: content/categorie
+    create: false
+    path: "{{slug}}/_index"
+    fields:
+      - { label: Titolo, name: title, widget: string }
+      - { label: Slug, name: slug, widget: string }
+      - { label: Descrizione, name: description, widget: text, required: false }
+      - { label: Copertina, name: cover, widget: image, required: false }
+      - { label: Icona, name: icon, widget: string, required: false }
+      - { label: Corpo, name: body, widget: markdown, required: false }
+
+  - name: pagine
+    label: Pagine
+    files:
+      - name: home
+        label: Home
+        file: content/_index.md
+        fields:
+          - { label: Titolo, name: title, widget: string }
+          - { label: Descrizione, name: description, widget: text, required: false }
+          - { label: Copertina, name: cover, widget: image, required: false }
+          - { label: Corpo, name: body, widget: markdown, required: false }
+      - name: il-progetto
+        label: Il progetto
+        file: content/il-progetto.md
+        fields:
+          - { label: Titolo, name: title, widget: string }
+          - { label: Descrizione, name: description, widget: text, required: false }
+          - { label: Copertina, name: cover, widget: image, required: false }
+          - { label: Corpo, name: body, widget: markdown }
+      - name: crediti
+        label: Crediti
+        file: content/crediti.md
+        fields:
+          - { label: Titolo, name: title, widget: string }
+          - { label: Descrizione, name: description, widget: text, required: false }
+          - { label: Copertina, name: cover, widget: image, required: false }
+          - { label: Corpo, name: body, widget: markdown }

@@ -4,7 +4,7 @@ slug: 064-borgo-location-di-eventi
 number: 64
 source_code: '610'
 categorie:
-- artigianato
+  - servizi
 weight: 64
 summary: L’utilizzo di un borgo italiano come location per eventi può offrire un’esperienza unica, capace di coniugare storia, tradizione e bellezza. Questi luoghi incantevoli, spesso arroccati su colline o…
 cover: /images/covers/idea-064.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time
   reddito: integrativo - principale
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

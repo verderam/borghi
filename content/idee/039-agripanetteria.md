@@ -4,7 +4,8 @@ slug: 039-agripanetteria
 number: 39
 source_code: '370'
 categorie:
-- food
+  - agricoltura
+  - food
 weight: 39
 summary: Aprire un'agripanetteria in un borgo italiano può rappresentare un'opportunità straordinaria per valorizzare le tradizioni locali e promuovere un modello di produzione sostenibile. Grazie all'utilizzo di…
 cover: /images/covers/idea-039.jpg
@@ -16,6 +17,7 @@ identikit:
   impegno: tempo pieno
   reddito: principale
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

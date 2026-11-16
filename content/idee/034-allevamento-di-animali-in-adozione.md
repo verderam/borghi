@@ -1,10 +1,10 @@
 ---
-title: Allevamento di animali in adozione
+title: 330 Allevamento di animali in adozione
 slug: 034-allevamento-di-animali-in-adozione
 number: 34
 source_code: '330'
 categorie:
-- allevamento
+  - allevamento
 weight: 34
 summary: Un allevamento di animali in adozione in un borgo italiano rappresenta un'iniziativa preziosa che coniuga il benessere animale con la partecipazione della comunità e il turismo responsabile. In un ambiente…
 cover: /images/covers/idea-034.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time – tempo pieno
   reddito: integrativo - principale
   rischio: contenuto - medio
+featured: false
 ---
 
 ## La storia

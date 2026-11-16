@@ -7,7 +7,7 @@ categorie:
   - agricoltura
 weight: 11
 summary: L'introduzione di una nuova coltivazione di ortaggi antichi in un borgo italiano possiede un'attrattività intrinseca e molteplice, capace di generare un impatto positivo ben oltre il solo ambito agricolo.…
-cover: /images/covers/idea-011.jpg
+cover: /images/piccolifrutti.jpg
 cover_alt: ''
 icon: carrot
 identikit:

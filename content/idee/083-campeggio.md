@@ -1,10 +1,10 @@
 ---
-title: Campeggio
+title: 820 Campeggio
 slug: 083-campeggio
 number: 83
 source_code: '820'
 categorie:
-- ospitalita
+  - ospitalita
 weight: 83
 summary: Aprire un campeggio in un borgo italiano può essere una scelta vincente per intercettare il crescente interesse verso il turismo outdoor e sostenibile. I borghi italiani, immersi in paesaggi naturali e…
 cover: /images/covers/idea-083.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: tempo pieno
   reddito: principale
   rischio: medio - elevato
+featured: false
 ---
 
 ## La storia

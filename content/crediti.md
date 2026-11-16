@@ -19,7 +19,8 @@ I segni grafici incorporati nelle copertine e nell’interfaccia derivano da **L
 ## Caratteri
 
 I caratteri **Noto Sans**, **Noto Sans Display** e **Noto Serif Display** sono distribuiti con licenza SIL Open Font License. I file inclusi sono sottoinsiemi contenenti i soli glifi necessari all’interfaccia italiana.
-
+<!-- 
 ## Tecnologia
 
 Sito statico realizzato con **Hugo**. La navigazione progressiva usa **InstantClick**, distribuito con licenza MIT e caricato localmente. I collegamenti mantengono il normale funzionamento anche senza JavaScript. Ricerca e filtri operano interamente nel browser: non vengono trasmessi dati personali né installati cookie di profilazione.
+-->

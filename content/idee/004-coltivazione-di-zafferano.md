@@ -1,10 +1,10 @@
 ---
-title: Coltivazione di zafferano
+title: 030 Coltivazione di zafferano
 slug: 004-coltivazione-di-zafferano
 number: 4
 source_code: '030'
 categorie:
-- agricoltura
+  - agricoltura
 weight: 4
 summary: La coltivazione dello zafferano si sta affermando come una fonte di reddito sempre più interessante per molti borghi italiani, offrendo un'alternativa sostenibile all'agricoltura tradizionale. I territori…
 cover: /images/covers/idea-004.jpg
@@ -16,6 +16,7 @@ identikit:
   impegno: part time
   reddito: integrativo
   rischio: contenuto
+featured: false
 ---
 
 ## La storia

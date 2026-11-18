@@ -14,7 +14,7 @@ identikit: null
 featured: false
 ---
 
-# **La storia**
+## **La storia**
 
 Silvia e Riccardo Baracchi hanno condiviso un progetto di ospitalità.
 Al centro vi era il recupero dell’antica dimora della famiglia Baracchi.
@@ -38,7 +38,7 @@ La nuova destinazione la rende parte di un progetto di convivialità.
 Il suo interesse non risiede soltanto nell’aspetto suggestivo del luogo.
 Sta anche nell’unione fra patrimonio familiare, territorio e cucina.
 
-# L’attrattività dell’idea
+## L’attrattività dell’idea
 
  Aprire un ristorante in una serra può unire cucina, natura e ospitalità.
 Il suo fascino nasce da un ambiente diverso dalla sala tradizionale.

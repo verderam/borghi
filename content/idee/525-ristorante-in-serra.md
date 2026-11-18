@@ -1,5 +1,5 @@
 ---
-title: 525 RISTORANTE IN SERRA
+title: 525 Ristorante in serra
 slug: 525 ristorante in serra
 number: 775
 source_code: ''

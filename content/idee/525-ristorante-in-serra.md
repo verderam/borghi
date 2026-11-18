@@ -10,7 +10,12 @@ summary: ''
 cover: ''
 cover_alt: ''
 icon: ''
-identikit: null
+identikit:
+  investimento: ''
+  conoscenze: ''
+  impegno: ''
+  reddito: ''
+  rischio: ''
 featured: false
 ---
 

@@ -11,7 +11,7 @@ cover: ''
 cover_alt: ''
 icon: ''
 identikit:
-  investimento: ''
+  investimento: basso - medio
   conoscenze: ''
   impegno: ''
   reddito: ''

@@ -1,6 +1,6 @@
 ---
 title: 120 Coltivazione di microverdure e fiori edibili
-slug: 013-coltivazione-di-microverdure-e-fiori-edibili
+slug: 120-coltivazione-di-microverdure-e-fiori-edibili
 number: 13
 source_code: '120'
 categorie:

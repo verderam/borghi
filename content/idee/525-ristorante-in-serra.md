@@ -12,25 +12,16 @@ cover_alt: ''
 icon: ''
 identikit:
   investimento: basso - medio
-  conoscenze: ''
-  impegno: ''
-  reddito: ''
-  rischio: ''
+  conoscenze: diffuse e accessibili
+  impegno: tempo pieno
+  reddito: integrativo - principale
+  rischio: contenuto - medio
 featured: false
 ---
 
-## **La storia**
-
-Silvia e Riccardo Baracchi hanno condiviso un progetto di ospitalità.
-Al centro vi era il recupero dell’antica dimora della famiglia Baracchi.
-La proprietà comprendeva villa, limonaia, chiesa, casa colonica e scuderia.
-Il loro intento era unire accoglienza, buona cucina e grandi vini.
-Il ristorante Il Falconiere è stato ricavato nell’antica limonaia.
-È quindi più preciso parlare di limonaia storica che di serra agricola.
-La scelta si inseriva nel recupero dell’intero piccolo borgo di famiglia.
-Silvia e Riccardo hanno privilegiato un restauro conservativo.
-L’obiettivo dichiarato era mantenere l’autentico stile toscano.
-Il progetto ha così dato una nuova funzione a uno spazio preesistente.
+```plain
+La storia
+```
 
 Silvia portava con sé l’esperienza maturata nel ristorante di famiglia.
 La sua passione gastronomica è diventata parte del sogno condiviso.
@@ -56,9 +47,11 @@ Di sera, un’illuminazione discreta può creare un ambiente raccolto.
 Un’identità visiva riconoscibile può distinguere il locale sul territorio.
 Il legame tra spazio e cucina può dare forza al racconto del ristorante.
 
-Un menu stagionale può rendere coerente la proposta gastronomica.
-Erbe coltivate sul posto possono avvicinare idealmente orto e piatto.
-La coltivazione visibile può diventare parte del racconto agli ospiti.
+## Un menu stagionale può rendere coerente la proposta gastronomica.
+
+## Erbe coltivate sul posto possono avvicinare idealmente orto e piatto.
+
+## La coltivazione visibile può diventare parte del racconto agli ospiti.
 Degustazioni e incontri sul cibo sono possibili sviluppi del progetto.
 La bellezza del luogo deve accompagnare qualità e cura del servizio.
 La serra, da sola, non garantisce sostenibilità né successo economico.

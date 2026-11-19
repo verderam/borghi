@@ -1,6 +1,6 @@
 ---
-title: 012 Coltivazione di frutti dimenticati
-slug: 012-coltivazione-di-frutti-dimenticati
+title: 110 Coltivazione di frutti dimenticati
+slug: 110-coltivazione-di-frutti-dimenticati
 number: 12
 source_code: '110'
 categorie:
